@@ -1,0 +1,1001 @@
+Vehicle Type,Make,Model,Service Type,Total Cost,Mileage at Service,Service Duration Hours,Urgency Level
+CAR,BMW,BMW Model 3,Brake Pad Replacement,192.37,121419,3.6,High
+BIKE,Harley,Harley Model 2,Battery Replacement,142.69,71011,2.6,High
+CAR,Toyota,Toyota Model 2,Tire Rotation,37.54,40119,0.6,Medium
+BIKE,Yamaha,Yamaha Model 2,Oil Change,71.39,121368,1.5,Medium
+TRUCK,MAN,MAN Model 4,Oil Change,217.9,182622,4.6,Low
+BIKE,Kawasaki,Kawasaki Model 3,Tire Rotation,34.66,137843,0.7,High
+BIKE,Yamaha,Yamaha Model 1,Tire Rotation,35.68,123506,0.7,Low
+BIKE,Ducati,Ducati Model 4,Tire Rotation,34.96,8711,0.5,Low
+CAR,Toyota,Toyota Model 4,Chain Lube,22.9,15843,0.4,Low
+BIKE,Ducati,Ducati Model 5,Chain Lube,16.49,195652,0.4,Medium
+CAR,Honda,Honda Model 5,Tire Rotation,40.22,91328,0.9,Medium
+BIKE,Yamaha,Yamaha Model 5,Battery Replacement,139.89,98745,2.0,High
+TRUCK,Mercedes,Mercedes Model 2,Battery Replacement,535.62,178015,8.1,Medium
+TRUCK,Mercedes,Mercedes Model 4,Brake Pad Replacement,625.63,36666,10.9,Low
+CAR,BMW,BMW Model 4,Brake Pad Replacement,238.47,154023,4.4,Low
+TRUCK,Volvo,Volvo Model 3,Air Filter,89.92,82667,2.1,Medium
+CAR,BMW,BMW Model 1,Oil Change,73.57,14871,1.8,High
+TRUCK,Mercedes,Mercedes Model 5,Air Filter,98.09,64954,1.5,High
+CAR,Ford,Ford Model 5,Brake Pad Replacement,201.16,162195,3.6,High
+TRUCK,Mercedes,Mercedes Model 2,Chain Lube,65.54,169380,1.2,Medium
+CAR,Ford,Ford Model 5,Brake Pad Replacement,233.15,128034,4.1,Low
+BIKE,Yamaha,Yamaha Model 2,Battery Replacement,128.18,84187,2.3,High
+TRUCK,Volvo,Volvo Model 1,Air Filter,92.79,176303,1.8,Low
+BIKE,Kawasaki,Kawasaki Model 4,Battery Replacement,113.78,158440,2.0,Low
+BIKE,Harley,Harley Model 3,Air Filter,24.78,175876,0.5,Medium
+BIKE,Ducati,Ducati Model 4,Chain Lube,17.9,119487,0.3,Medium
+TRUCK,Scania,Scania Model 4,Tire Rotation,127.35,20881,2.5,Low
+TRUCK,Volvo,Volvo Model 2,Chain Lube,69.4,107528,1.1,Medium
+TRUCK,Mercedes,Mercedes Model 1,Tire Rotation,115.74,125325,2.5,Medium
+CAR,Ford,Ford Model 3,Tire Rotation,38.13,74710,0.7,High
+CAR,Toyota,Toyota Model 4,Tire Rotation,46.65,142110,0.7,High
+TRUCK,MAN,MAN Model 4,Battery Replacement,409.36,117169,10.2,Medium
+CAR,Toyota,Toyota Model 4,Chain Lube,21.66,75335,0.4,Low
+BIKE,Harley,Harley Model 3,Battery Replacement,137.67,124310,2.5,Low
+TRUCK,Volvo,Volvo Model 3,Chain Lube,55.25,147313,1.1,Low
+CAR,Toyota,Toyota Model 5,Oil Change,74.05,103057,1.5,Low
+TRUCK,Volvo,Volvo Model 4,Oil Change,228.96,124710,4.2,Medium
+CAR,Ford,Ford Model 4,Air Filter,27.29,10735,0.7,High
+TRUCK,Scania,Scania Model 4,Brake Pad Replacement,660.95,78018,11.7,Medium
+TRUCK,Mercedes,Mercedes Model 2,Brake Pad Replacement,641.26,149120,14.1,High
+TRUCK,Volvo,Volvo Model 4,Oil Change,252.55,125099,4.0,Medium
+BIKE,Harley,Harley Model 3,Brake Pad Replacement,166.12,169227,2.7,Medium
+TRUCK,Scania,Scania Model 2,Tire Rotation,125.67,173843,2.2,Medium
+TRUCK,MAN,MAN Model 3,Tire Rotation,142.75,103678,2.2,Medium
+BIKE,Yamaha,Yamaha Model 2,Tire Rotation,32.78,58580,0.6,Low
+BIKE,Ducati,Ducati Model 1,Air Filter,26.99,97611,0.5,High
+CAR,Honda,Honda Model 1,Oil Change,80.77,26353,1.7,Medium
+BIKE,Kawasaki,Kawasaki Model 4,Battery Replacement,132.89,16670,2.7,Medium
+TRUCK,Mercedes,Mercedes Model 3,Chain Lube,62.21,105832,1.1,High
+TRUCK,Mercedes,Mercedes Model 4,Brake Pad Replacement,558.12,50813,11.0,Medium
+CAR,Ford,Ford Model 5,Tire Rotation,45.47,171057,0.9,Medium
+TRUCK,Volvo,Volvo Model 2,Brake Pad Replacement,631.82,2663,10.9,High
+BIKE,Yamaha,Yamaha Model 5,Oil Change,69.07,86336,1.0,Medium
+CAR,Honda,Honda Model 2,Air Filter,35.2,134910,0.7,High
+CAR,Honda,Honda Model 4,Brake Pad Replacement,191.46,31119,3.5,High
+TRUCK,MAN,MAN Model 2,Brake Pad Replacement,567.55,54442,10.7,Low
+BIKE,Kawasaki,Kawasaki Model 4,Battery Replacement,140.03,149474,2.8,High
+TRUCK,MAN,MAN Model 3,Battery Replacement,507.15,174566,10.3,High
+CAR,BMW,BMW Model 1,Brake Pad Replacement,181.92,175718,4.5,Medium
+CAR,BMW,BMW Model 1,Battery Replacement,169.75,147200,2.5,Low
+CAR,Ford,Ford Model 1,Battery Replacement,164.56,29584,2.9,Medium
+TRUCK,Volvo,Volvo Model 2,Oil Change,231.06,30806,3.9,High
+CAR,Toyota,Toyota Model 5,Brake Pad Replacement,205.54,24110,3.3,High
+TRUCK,Scania,Scania Model 1,Battery Replacement,480.34,74287,10.1,Medium
+TRUCK,Mercedes,Mercedes Model 5,Chain Lube,67.66,148483,1.0,Medium
+BIKE,Yamaha,Yamaha Model 1,Tire Rotation,31.33,183130,0.6,Low
+CAR,BMW,BMW Model 3,Chain Lube,22.98,176596,0.3,High
+CAR,BMW,BMW Model 1,Tire Rotation,41.92,36469,0.7,Low
+TRUCK,Scania,Scania Model 4,Chain Lube,65.95,58000,1.0,Medium
+BIKE,Harley,Harley Model 4,Tire Rotation,37.04,30651,0.6,Medium
+CAR,Toyota,Toyota Model 3,Chain Lube,20.48,79582,0.4,Medium
+BIKE,Harley,Harley Model 2,Brake Pad Replacement,171.59,124208,2.8,High
+BIKE,Ducati,Ducati Model 4,Air Filter,26.31,78065,0.5,Medium
+TRUCK,Mercedes,Mercedes Model 5,Tire Rotation,116.69,120319,2.1,Low
+BIKE,Ducati,Ducati Model 3,Chain Lube,15.08,51397,0.4,Low
+BIKE,Yamaha,Yamaha Model 5,Oil Change,63.75,187933,1.5,Medium
+BIKE,Ducati,Ducati Model 3,Brake Pad Replacement,161.14,162432,3.2,Medium
+TRUCK,MAN,MAN Model 5,Chain Lube,54.52,73505,1.1,High
+TRUCK,Scania,Scania Model 3,Tire Rotation,112.1,189137,2.8,Medium
+TRUCK,MAN,MAN Model 1,Battery Replacement,485.16,4419,10.8,High
+BIKE,Kawasaki,Kawasaki Model 2,Brake Pad Replacement,170.93,48264,2.8,High
+BIKE,Yamaha,Yamaha Model 4,Air Filter,26.16,81713,0.5,Medium
+CAR,Toyota,Toyota Model 4,Oil Change,76.94,75868,1.7,Medium
+BIKE,Harley,Harley Model 4,Chain Lube,14.88,49586,0.3,High
+TRUCK,Volvo,Volvo Model 2,Oil Change,237.5,146482,4.4,High
+TRUCK,Volvo,Volvo Model 4,Tire Rotation,129.73,78883,2.0,Medium
+TRUCK,Volvo,Volvo Model 5,Brake Pad Replacement,547.18,8212,14.0,High
+CAR,Toyota,Toyota Model 5,Tire Rotation,44.11,23593,0.8,Medium
+BIKE,Yamaha,Yamaha Model 1,Air Filter,23.41,68816,0.5,Medium
+CAR,Toyota,Toyota Model 3,Oil Change,90.99,180902,1.3,Medium
+TRUCK,MAN,MAN Model 5,Battery Replacement,476.21,139809,9.5,Low
+BIKE,Ducati,Ducati Model 5,Battery Replacement,134.47,75809,2.5,Low
+CAR,BMW,BMW Model 2,Battery Replacement,137.58,150572,2.4,Low
+CAR,BMW,BMW Model 4,Tire Rotation,40.89,143842,0.8,High
+CAR,Honda,Honda Model 4,Air Filter,30.27,74723,0.6,Low
+CAR,Ford,Ford Model 5,Brake Pad Replacement,204.48,10037,4.2,High
+TRUCK,MAN,MAN Model 4,Oil Change,280.44,142255,4.1,Medium
+BIKE,Ducati,Ducati Model 4,Battery Replacement,137.82,127693,2.1,Medium
+CAR,Honda,Honda Model 3,Chain Lube,23.08,140987,0.3,High
+CAR,Toyota,Toyota Model 4,Brake Pad Replacement,220.32,129657,4.3,High
+CAR,Toyota,Toyota Model 5,Brake Pad Replacement,189.57,104174,4.7,Low
+BIKE,Harley,Harley Model 5,Air Filter,23.9,170438,0.5,High
+BIKE,Kawasaki,Kawasaki Model 3,Tire Rotation,37.57,79834,0.5,Low
+CAR,Ford,Ford Model 2,Oil Change,92.93,198077,1.8,Low
+BIKE,Harley,Harley Model 3,Air Filter,21.94,8533,0.5,Medium
+CAR,Ford,Ford Model 3,Oil Change,83.29,192545,1.8,Low
+TRUCK,Mercedes,Mercedes Model 2,Chain Lube,57.9,182959,1.0,Medium
+CAR,Honda,Honda Model 3,Chain Lube,21.15,49876,0.4,High
+BIKE,Ducati,Ducati Model 5,Air Filter,28.64,1555,0.5,High
+TRUCK,MAN,MAN Model 2,Oil Change,231.39,75711,5.3,Medium
+BIKE,Kawasaki,Kawasaki Model 3,Chain Lube,14.98,104684,0.3,Medium
+BIKE,Harley,Harley Model 4,Oil Change,62.61,182282,1.1,Medium
+BIKE,Harley,Harley Model 5,Brake Pad Replacement,159.29,93483,2.6,Medium
+BIKE,Ducati,Ducati Model 3,Air Filter,26.49,94981,0.4,High
+BIKE,Kawasaki,Kawasaki Model 4,Tire Rotation,31.87,14223,0.5,Medium
+CAR,Ford,Ford Model 2,Brake Pad Replacement,186.47,144503,4.4,Low
+BIKE,Yamaha,Yamaha Model 1,Oil Change,75.99,98734,1.5,Low
+CAR,Honda,Honda Model 1,Chain Lube,20.61,178203,0.4,Low
+CAR,Honda,Honda Model 2,Battery Replacement,168.28,148931,3.0,Medium
+TRUCK,Volvo,Volvo Model 4,Battery Replacement,455.67,62054,10.7,High
+CAR,BMW,BMW Model 2,Brake Pad Replacement,224.13,54645,4.0,High
+CAR,Honda,Honda Model 5,Tire Rotation,41.64,19686,0.9,High
+TRUCK,Volvo,Volvo Model 4,Chain Lube,69.12,24823,1.1,Low
+BIKE,Harley,Harley Model 3,Oil Change,60.78,4306,1.0,Low
+TRUCK,MAN,MAN Model 3,Battery Replacement,418.22,84005,8.1,Medium
+BIKE,Kawasaki,Kawasaki Model 5,Oil Change,69.71,190594,1.0,High
+TRUCK,Volvo,Volvo Model 1,Battery Replacement,433.22,168199,10.4,Medium
+BIKE,Harley,Harley Model 5,Air Filter,22.47,141242,0.5,Medium
+BIKE,Kawasaki,Kawasaki Model 4,Brake Pad Replacement,184.16,81999,2.7,High
+BIKE,Kawasaki,Kawasaki Model 4,Brake Pad Replacement,148.13,149136,3.3,Medium
+BIKE,Kawasaki,Kawasaki Model 5,Chain Lube,16.68,86302,0.4,High
+BIKE,Ducati,Ducati Model 3,Battery Replacement,119.43,54769,2.5,Low
+CAR,BMW,BMW Model 5,Air Filter,27.04,143836,0.6,High
+CAR,BMW,BMW Model 1,Oil Change,77.81,75996,1.7,High
+CAR,Honda,Honda Model 5,Brake Pad Replacement,232.04,2578,4.6,Low
+TRUCK,Scania,Scania Model 4,Chain Lube,65.81,44901,1.3,Low
+BIKE,Kawasaki,Kawasaki Model 1,Brake Pad Replacement,163.05,162322,2.9,Medium
+BIKE,Kawasaki,Kawasaki Model 5,Oil Change,67.61,43002,1.3,High
+CAR,Ford,Ford Model 1,Battery Replacement,164.87,183471,3.4,Low
+TRUCK,Volvo,Volvo Model 4,Tire Rotation,143.36,155979,2.7,Low
+CAR,Toyota,Toyota Model 1,Air Filter,28.32,68250,0.5,Medium
+BIKE,Harley,Harley Model 2,Battery Replacement,134.38,174514,2.1,Medium
+TRUCK,MAN,MAN Model 4,Chain Lube,64.31,146254,1.3,High
+BIKE,Kawasaki,Kawasaki Model 3,Brake Pad Replacement,180.45,163003,2.9,High
+BIKE,Yamaha,Yamaha Model 5,Oil Change,68.82,130983,1.3,Low
+BIKE,Kawasaki,Kawasaki Model 4,Air Filter,28.52,190365,0.4,Low
+CAR,BMW,BMW Model 1,Air Filter,32.25,18320,0.6,High
+BIKE,Yamaha,Yamaha Model 1,Chain Lube,17.06,54426,0.4,High
+TRUCK,Volvo,Volvo Model 5,Tire Rotation,112.91,14275,2.4,Low
+TRUCK,Mercedes,Mercedes Model 3,Tire Rotation,140.11,76754,2.1,Low
+CAR,Toyota,Toyota Model 3,Brake Pad Replacement,180.3,144988,4.3,Medium
+TRUCK,Volvo,Volvo Model 5,Chain Lube,61.04,116312,1.4,Low
+BIKE,Kawasaki,Kawasaki Model 4,Oil Change,67.92,5040,1.4,High
+TRUCK,Mercedes,Mercedes Model 5,Air Filter,101.29,2043,1.7,Low
+TRUCK,Scania,Scania Model 5,Brake Pad Replacement,706.01,40673,12.4,High
+BIKE,Yamaha,Yamaha Model 5,Oil Change,66.12,35855,1.2,Low
+BIKE,Ducati,Ducati Model 3,Air Filter,23.72,60308,0.6,Low
+CAR,Honda,Honda Model 4,Oil Change,72.7,103931,1.7,High
+BIKE,Yamaha,Yamaha Model 3,Brake Pad Replacement,173.33,2740,3.0,High
+TRUCK,MAN,MAN Model 1,Air Filter,85.69,141733,1.9,High
+CAR,Honda,Honda Model 4,Oil Change,89.8,122442,1.9,Medium
+BIKE,Harley,Harley Model 1,Brake Pad Replacement,179.79,17405,3.6,Medium
+BIKE,Ducati,Ducati Model 1,Brake Pad Replacement,183.36,186682,3.6,High
+TRUCK,Scania,Scania Model 5,Battery Replacement,453.49,80439,8.3,Low
+TRUCK,Scania,Scania Model 5,Battery Replacement,507.61,128051,8.5,High
+CAR,Ford,Ford Model 5,Battery Replacement,166.89,11841,3.1,High
+CAR,BMW,BMW Model 2,Oil Change,75.29,109165,1.7,Medium
+TRUCK,Scania,Scania Model 5,Chain Lube,54.09,125989,1.0,Medium
+CAR,Ford,Ford Model 5,Brake Pad Replacement,189.9,100427,4.5,Low
+BIKE,Kawasaki,Kawasaki Model 1,Tire Rotation,36.61,37671,0.7,Low
+BIKE,Ducati,Ducati Model 1,Battery Replacement,109.14,154139,2.5,High
+CAR,BMW,BMW Model 2,Battery Replacement,160.32,186007,3.2,Medium
+BIKE,Yamaha,Yamaha Model 2,Tire Rotation,33.67,102080,0.6,Low
+CAR,Honda,Honda Model 4,Chain Lube,19.68,113629,0.3,Low
+BIKE,Ducati,Ducati Model 5,Brake Pad Replacement,146.33,152821,2.8,High
+CAR,Ford,Ford Model 1,Air Filter,30.05,74225,0.6,High
+TRUCK,MAN,MAN Model 5,Air Filter,92.3,95881,1.5,Medium
+TRUCK,Scania,Scania Model 1,Oil Change,239.69,77637,4.9,High
+TRUCK,Mercedes,Mercedes Model 1,Brake Pad Replacement,666.36,70712,13.8,High
+TRUCK,Mercedes,Mercedes Model 5,Oil Change,257.95,194386,4.6,High
+TRUCK,Scania,Scania Model 1,Battery Replacement,406.43,112709,8.3,Medium
+CAR,Honda,Honda Model 5,Tire Rotation,38.59,73396,0.8,High
+CAR,Ford,Ford Model 2,Battery Replacement,137.88,11874,3.2,High
+CAR,Honda,Honda Model 2,Chain Lube,19.33,185765,0.4,High
+CAR,BMW,BMW Model 2,Battery Replacement,148.45,66579,2.8,Medium
+BIKE,Kawasaki,Kawasaki Model 4,Battery Replacement,111.72,169695,2.4,High
+BIKE,Yamaha,Yamaha Model 1,Brake Pad Replacement,169.08,40877,2.6,Medium
+BIKE,Harley,Harley Model 1,Brake Pad Replacement,190.01,69520,2.9,Low
+TRUCK,Volvo,Volvo Model 4,Air Filter,87.87,160141,2.0,High
+CAR,Toyota,Toyota Model 2,Oil Change,89.8,63132,1.3,Low
+BIKE,Kawasaki,Kawasaki Model 1,Oil Change,73.07,116093,1.5,High
+TRUCK,MAN,MAN Model 5,Air Filter,88.82,51313,1.6,Low
+BIKE,Harley,Harley Model 5,Tire Rotation,34.75,47697,0.8,Low
+TRUCK,Scania,Scania Model 3,Battery Replacement,509.15,25023,7.2,Low
+TRUCK,MAN,MAN Model 5,Air Filter,106.16,151681,1.6,Medium
+BIKE,Yamaha,Yamaha Model 4,Chain Lube,15.57,71557,0.3,Medium
+TRUCK,Volvo,Volvo Model 4,Oil Change,266.57,69149,4.9,Low
+CAR,Ford,Ford Model 1,Tire Rotation,45.13,74007,0.7,Low
+TRUCK,Volvo,Volvo Model 1,Air Filter,100.41,136787,1.7,Medium
+CAR,Ford,Ford Model 4,Oil Change,82.05,88292,1.7,High
+BIKE,Ducati,Ducati Model 2,Brake Pad Replacement,172.36,122146,3.7,High
+CAR,Toyota,Toyota Model 1,Air Filter,33.37,145470,0.6,High
+CAR,Ford,Ford Model 3,Chain Lube,23.37,47402,0.5,High
+TRUCK,Mercedes,Mercedes Model 3,Chain Lube,58.89,143858,1.2,Medium
+BIKE,Kawasaki,Kawasaki Model 4,Tire Rotation,34.63,30770,0.7,Low
+CAR,Toyota,Toyota Model 5,Air Filter,30.38,127554,0.5,High
+BIKE,Ducati,Ducati Model 3,Brake Pad Replacement,147.06,47572,3.2,Medium
+TRUCK,Scania,Scania Model 1,Battery Replacement,418.47,18954,7.4,Medium
+CAR,BMW,BMW Model 4,Tire Rotation,47.74,143195,0.7,Low
+CAR,Honda,Honda Model 5,Battery Replacement,177.13,61185,3.3,High
+CAR,Honda,Honda Model 5,Chain Lube,20.62,140324,0.3,High
+BIKE,Yamaha,Yamaha Model 5,Tire Rotation,37.08,153492,0.6,Low
+BIKE,Yamaha,Yamaha Model 1,Battery Replacement,123.9,178876,2.2,High
+TRUCK,Mercedes,Mercedes Model 5,Oil Change,257.33,61347,4.6,High
+BIKE,Kawasaki,Kawasaki Model 3,Battery Replacement,139.05,139053,2.5,Medium
+TRUCK,Volvo,Volvo Model 4,Brake Pad Replacement,669.43,173577,13.9,Low
+TRUCK,Mercedes,Mercedes Model 1,Tire Rotation,126.32,101465,2.5,Low
+BIKE,Yamaha,Yamaha Model 3,Brake Pad Replacement,148.44,24498,3.6,High
+TRUCK,MAN,MAN Model 4,Chain Lube,62.67,98490,1.2,Low
+CAR,Ford,Ford Model 4,Battery Replacement,147.33,98883,3.2,High
+TRUCK,Scania,Scania Model 5,Oil Change,222.4,19434,5.2,Medium
+TRUCK,Mercedes,Mercedes Model 4,Battery Replacement,493.55,69536,9.6,High
+BIKE,Yamaha,Yamaha Model 1,Chain Lube,18.57,159743,0.3,Low
+TRUCK,Mercedes,Mercedes Model 1,Brake Pad Replacement,676.91,3550,12.9,High
+BIKE,Harley,Harley Model 3,Brake Pad Replacement,186.7,172573,3.1,Low
+BIKE,Harley,Harley Model 3,Battery Replacement,117.78,111618,2.3,High
+BIKE,Harley,Harley Model 5,Air Filter,24.24,177141,0.5,Medium
+TRUCK,MAN,MAN Model 2,Battery Replacement,511.86,119056,8.4,High
+BIKE,Ducati,Ducati Model 3,Air Filter,24.91,154904,0.5,Low
+CAR,Honda,Honda Model 4,Brake Pad Replacement,184.47,20310,4.1,Medium
+TRUCK,MAN,MAN Model 2,Oil Change,265.22,30602,5.7,Medium
+TRUCK,Volvo,Volvo Model 5,Battery Replacement,535.95,7267,9.1,High
+TRUCK,Mercedes,Mercedes Model 2,Chain Lube,54.02,104656,1.4,Low
+CAR,Ford,Ford Model 1,Battery Replacement,137.2,80163,2.7,Medium
+BIKE,Kawasaki,Kawasaki Model 4,Air Filter,27.67,176249,0.6,Medium
+TRUCK,Scania,Scania Model 1,Chain Lube,67.08,102284,1.0,Low
+TRUCK,Scania,Scania Model 3,Brake Pad Replacement,554.77,13233,10.0,Low
+CAR,Ford,Ford Model 5,Air Filter,34.61,46757,0.5,High
+TRUCK,MAN,MAN Model 5,Tire Rotation,139.24,139504,2.7,Low
+BIKE,Ducati,Ducati Model 5,Oil Change,59.25,168471,1.2,Medium
+TRUCK,Scania,Scania Model 5,Battery Replacement,526.19,102400,9.0,High
+CAR,Toyota,Toyota Model 4,Air Filter,31.76,125042,0.5,High
+BIKE,Kawasaki,Kawasaki Model 3,Tire Rotation,32.76,179781,0.7,Low
+CAR,Toyota,Toyota Model 4,Brake Pad Replacement,212.53,135000,3.2,Low
+TRUCK,MAN,MAN Model 2,Air Filter,105.5,139274,1.6,Medium
+BIKE,Ducati,Ducati Model 1,Battery Replacement,131.74,74087,2.8,High
+CAR,Toyota,Toyota Model 4,Chain Lube,19.47,120687,0.4,High
+CAR,Honda,Honda Model 3,Tire Rotation,43.56,27941,0.7,Low
+TRUCK,MAN,MAN Model 1,Tire Rotation,134.8,32016,2.8,Low
+BIKE,Ducati,Ducati Model 4,Brake Pad Replacement,177.86,108698,2.7,High
+TRUCK,Volvo,Volvo Model 4,Air Filter,105.73,60071,1.5,High
+CAR,Toyota,Toyota Model 2,Tire Rotation,43.3,181707,0.7,Low
+BIKE,Harley,Harley Model 2,Oil Change,60.23,4461,1.2,Low
+TRUCK,MAN,MAN Model 1,Brake Pad Replacement,637.33,18671,9.8,Medium
+BIKE,Ducati,Ducati Model 3,Air Filter,22.1,93219,0.6,High
+TRUCK,Mercedes,Mercedes Model 1,Battery Replacement,507.43,32059,8.9,Medium
+BIKE,Kawasaki,Kawasaki Model 3,Battery Replacement,120.3,184048,2.3,Low
+BIKE,Harley,Harley Model 3,Chain Lube,17.2,95033,0.3,High
+CAR,Honda,Honda Model 2,Tire Rotation,43.38,60962,0.9,Medium
+CAR,BMW,BMW Model 5,Brake Pad Replacement,190.8,179801,4.6,Medium
+BIKE,Kawasaki,Kawasaki Model 5,Oil Change,59.15,148130,1.0,Low
+CAR,BMW,BMW Model 3,Tire Rotation,38.26,69840,0.7,High
+BIKE,Kawasaki,Kawasaki Model 1,Battery Replacement,125.28,6427,2.5,High
+TRUCK,Mercedes,Mercedes Model 4,Oil Change,276.04,102350,5.5,Low
+CAR,Toyota,Toyota Model 5,Battery Replacement,179.47,51219,3.4,Low
+CAR,Ford,Ford Model 4,Oil Change,76.8,148207,1.8,Low
+CAR,Honda,Honda Model 3,Tire Rotation,44.32,78913,0.7,High
+BIKE,Kawasaki,Kawasaki Model 4,Chain Lube,19.07,185761,0.3,High
+BIKE,Ducati,Ducati Model 1,Tire Rotation,34.63,106599,0.6,High
+TRUCK,Volvo,Volvo Model 2,Battery Replacement,427.11,48378,9.1,Low
+BIKE,Kawasaki,Kawasaki Model 3,Chain Lube,15.33,102872,0.3,High
+TRUCK,Mercedes,Mercedes Model 4,Brake Pad Replacement,603.45,176819,13.9,High
+TRUCK,Scania,Scania Model 5,Air Filter,95.46,3219,2.0,Low
+BIKE,Yamaha,Yamaha Model 5,Oil Change,60.89,68725,1.3,Low
+CAR,Toyota,Toyota Model 3,Air Filter,32.91,158042,0.6,High
+BIKE,Ducati,Ducati Model 5,Oil Change,75.69,54896,1.1,Medium
+BIKE,Harley,Harley Model 5,Chain Lube,15.43,18079,0.4,Low
+BIKE,Kawasaki,Kawasaki Model 1,Chain Lube,15.37,82904,0.4,High
+BIKE,Kawasaki,Kawasaki Model 3,Oil Change,71.19,135161,1.2,High
+TRUCK,Scania,Scania Model 1,Air Filter,97.2,50848,1.7,Medium
+CAR,Honda,Honda Model 1,Brake Pad Replacement,180.1,138428,4.7,Low
+CAR,Toyota,Toyota Model 4,Battery Replacement,168.91,144492,3.3,Low
+CAR,Honda,Honda Model 2,Oil Change,88.01,103133,1.9,Low
+CAR,Honda,Honda Model 3,Oil Change,95.81,118727,1.8,High
+TRUCK,Mercedes,Mercedes Model 3,Oil Change,268.63,33471,3.9,Medium
+BIKE,Kawasaki,Kawasaki Model 3,Air Filter,27.61,31005,0.5,High
+BIKE,Yamaha,Yamaha Model 2,Air Filter,23.14,42092,0.5,Low
+TRUCK,MAN,MAN Model 2,Tire Rotation,110.24,195793,2.2,High
+CAR,BMW,BMW Model 2,Tire Rotation,36.84,15876,0.9,Medium
+BIKE,Yamaha,Yamaha Model 5,Chain Lube,17.63,26654,0.4,High
+CAR,Honda,Honda Model 2,Brake Pad Replacement,193.84,197812,4.3,High
+TRUCK,MAN,MAN Model 5,Air Filter,104.87,162626,1.9,High
+CAR,Toyota,Toyota Model 4,Tire Rotation,44.91,17094,0.9,Medium
+CAR,Ford,Ford Model 4,Chain Lube,21.89,137304,0.5,Medium
+CAR,Ford,Ford Model 5,Air Filter,35.26,75928,0.6,Low
+TRUCK,Mercedes,Mercedes Model 3,Air Filter,107.34,134078,2.0,High
+CAR,Toyota,Toyota Model 5,Brake Pad Replacement,226.0,2741,3.8,High
+CAR,Honda,Honda Model 4,Brake Pad Replacement,202.56,196837,4.5,Medium
+TRUCK,Mercedes,Mercedes Model 2,Oil Change,249.34,26628,4.2,Low
+CAR,BMW,BMW Model 2,Chain Lube,19.22,33369,0.5,Medium
+TRUCK,MAN,MAN Model 4,Air Filter,89.34,161876,1.5,High
+BIKE,Yamaha,Yamaha Model 5,Chain Lube,18.91,188468,0.4,Low
+BIKE,Yamaha,Yamaha Model 5,Brake Pad Replacement,172.14,186476,2.9,Low
+BIKE,Harley,Harley Model 5,Air Filter,28.61,139840,0.4,Medium
+BIKE,Harley,Harley Model 5,Air Filter,24.01,58796,0.4,High
+BIKE,Kawasaki,Kawasaki Model 1,Air Filter,24.87,5800,0.4,Low
+BIKE,Ducati,Ducati Model 5,Battery Replacement,122.79,74011,2.8,Medium
+BIKE,Harley,Harley Model 5,Air Filter,21.78,104345,0.4,Medium
+CAR,BMW,BMW Model 5,Battery Replacement,139.75,27343,2.7,Medium
+TRUCK,MAN,MAN Model 5,Chain Lube,70.37,108440,1.1,High
+BIKE,Ducati,Ducati Model 5,Chain Lube,17.59,181696,0.3,Medium
+BIKE,Yamaha,Yamaha Model 5,Air Filter,24.82,38401,0.4,Low
+BIKE,Harley,Harley Model 5,Oil Change,62.09,29103,1.3,Low
+CAR,Ford,Ford Model 3,Tire Rotation,37.94,163989,0.9,High
+TRUCK,Volvo,Volvo Model 4,Tire Rotation,123.74,175672,2.0,High
+TRUCK,Mercedes,Mercedes Model 1,Oil Change,270.69,33870,3.8,High
+TRUCK,Mercedes,Mercedes Model 3,Air Filter,84.2,52060,1.7,Medium
+CAR,Ford,Ford Model 4,Tire Rotation,39.31,176467,0.8,High
+CAR,BMW,BMW Model 1,Air Filter,35.56,75155,0.6,Low
+CAR,BMW,BMW Model 5,Brake Pad Replacement,194.45,44308,4.6,Low
+BIKE,Ducati,Ducati Model 4,Oil Change,70.43,136964,1.3,High
+BIKE,Harley,Harley Model 4,Oil Change,67.87,88765,1.2,Low
+CAR,Honda,Honda Model 1,Battery Replacement,143.54,117301,3.2,High
+BIKE,Kawasaki,Kawasaki Model 2,Tire Rotation,32.98,58281,0.7,Low
+BIKE,Harley,Harley Model 2,Oil Change,73.23,95761,1.0,High
+BIKE,Kawasaki,Kawasaki Model 1,Tire Rotation,31.67,6555,0.7,Low
+CAR,BMW,BMW Model 2,Battery Replacement,148.69,186901,3.1,Low
+CAR,Ford,Ford Model 4,Chain Lube,20.0,49295,0.5,Medium
+CAR,BMW,BMW Model 2,Brake Pad Replacement,201.19,27031,3.7,Medium
+BIKE,Yamaha,Yamaha Model 4,Oil Change,67.55,157729,1.3,Medium
+BIKE,Ducati,Ducati Model 4,Chain Lube,16.83,93513,0.4,High
+BIKE,Harley,Harley Model 5,Brake Pad Replacement,183.45,19566,3.5,Medium
+BIKE,Yamaha,Yamaha Model 1,Tire Rotation,31.57,92301,0.6,High
+CAR,Toyota,Toyota Model 5,Battery Replacement,162.76,6717,2.9,Low
+TRUCK,Volvo,Volvo Model 5,Brake Pad Replacement,666.05,10414,12.3,High
+CAR,Ford,Ford Model 5,Brake Pad Replacement,229.29,146770,4.6,High
+CAR,BMW,BMW Model 3,Tire Rotation,45.79,26147,0.7,Low
+TRUCK,Volvo,Volvo Model 1,Chain Lube,55.98,15598,1.4,Low
+BIKE,Yamaha,Yamaha Model 2,Battery Replacement,120.17,88722,2.4,Medium
+BIKE,Kawasaki,Kawasaki Model 5,Tire Rotation,33.09,171727,0.5,High
+CAR,Toyota,Toyota Model 5,Air Filter,31.32,187882,0.7,High
+BIKE,Ducati,Ducati Model 5,Air Filter,22.47,164979,0.5,Low
+CAR,Honda,Honda Model 3,Tire Rotation,44.97,11211,0.7,Low
+TRUCK,Mercedes,Mercedes Model 3,Chain Lube,58.18,87656,1.2,High
+BIKE,Ducati,Ducati Model 5,Air Filter,27.09,87685,0.5,High
+BIKE,Kawasaki,Kawasaki Model 1,Air Filter,25.45,177443,0.4,High
+CAR,Toyota,Toyota Model 3,Air Filter,33.61,191140,0.6,Medium
+CAR,Honda,Honda Model 4,Battery Replacement,178.37,188390,2.8,High
+BIKE,Harley,Harley Model 4,Battery Replacement,116.04,168091,2.2,Medium
+TRUCK,Scania,Scania Model 2,Chain Lube,58.76,38693,1.2,Low
+BIKE,Kawasaki,Kawasaki Model 2,Battery Replacement,131.81,171158,2.5,High
+BIKE,Ducati,Ducati Model 5,Battery Replacement,119.13,68002,2.0,High
+CAR,Toyota,Toyota Model 4,Air Filter,29.64,162726,0.7,High
+CAR,Toyota,Toyota Model 4,Tire Rotation,36.97,71796,0.8,Medium
+CAR,Honda,Honda Model 3,Air Filter,31.62,165695,0.6,Low
+CAR,Toyota,Toyota Model 4,Air Filter,32.0,15414,0.5,Medium
+TRUCK,Volvo,Volvo Model 4,Battery Replacement,539.89,42142,7.7,High
+TRUCK,Volvo,Volvo Model 3,Battery Replacement,531.16,192455,9.7,Medium
+CAR,Honda,Honda Model 5,Air Filter,31.45,6982,0.7,Low
+CAR,Ford,Ford Model 4,Battery Replacement,151.13,45004,3.3,Medium
+TRUCK,Volvo,Volvo Model 3,Air Filter,102.01,107474,1.8,Medium
+TRUCK,Scania,Scania Model 3,Tire Rotation,141.75,156364,2.1,Medium
+BIKE,Kawasaki,Kawasaki Model 4,Tire Rotation,33.49,95908,0.6,Medium
+CAR,Honda,Honda Model 5,Brake Pad Replacement,236.13,144136,4.0,Medium
+CAR,Toyota,Toyota Model 2,Oil Change,92.24,64965,1.8,Medium
+CAR,BMW,BMW Model 4,Brake Pad Replacement,215.32,187242,4.5,Medium
+TRUCK,Mercedes,Mercedes Model 5,Tire Rotation,119.07,140518,2.5,Low
+CAR,Toyota,Toyota Model 4,Brake Pad Replacement,192.98,9524,3.8,Medium
+TRUCK,Volvo,Volvo Model 1,Chain Lube,60.58,72481,1.4,High
+CAR,Honda,Honda Model 5,Chain Lube,22.45,66068,0.3,Medium
+BIKE,Yamaha,Yamaha Model 5,Air Filter,23.52,6110,0.5,High
+BIKE,Kawasaki,Kawasaki Model 1,Brake Pad Replacement,183.06,49736,3.8,Low
+BIKE,Kawasaki,Kawasaki Model 4,Battery Replacement,113.48,15341,2.4,Medium
+TRUCK,Scania,Scania Model 1,Tire Rotation,141.2,176194,2.4,Medium
+BIKE,Ducati,Ducati Model 4,Air Filter,24.47,161623,0.5,Medium
+CAR,Toyota,Toyota Model 5,Chain Lube,21.88,175538,0.5,Medium
+TRUCK,Scania,Scania Model 2,Oil Change,251.74,24872,5.2,Medium
+BIKE,Yamaha,Yamaha Model 1,Battery Replacement,123.93,121288,2.1,Low
+BIKE,Harley,Harley Model 3,Battery Replacement,110.25,51303,2.1,Medium
+TRUCK,Scania,Scania Model 4,Brake Pad Replacement,718.15,182782,13.1,High
+CAR,Toyota,Toyota Model 3,Air Filter,31.94,53676,0.7,High
+TRUCK,Volvo,Volvo Model 1,Air Filter,101.12,151566,1.5,High
+BIKE,Ducati,Ducati Model 4,Oil Change,68.95,197836,1.5,High
+CAR,Toyota,Toyota Model 4,Brake Pad Replacement,186.34,125845,3.4,High
+TRUCK,MAN,MAN Model 2,Brake Pad Replacement,599.59,1185,11.8,Medium
+CAR,Toyota,Toyota Model 1,Oil Change,84.32,175880,1.6,Medium
+TRUCK,MAN,MAN Model 2,Oil Change,275.67,45293,4.3,Medium
+BIKE,Yamaha,Yamaha Model 3,Tire Rotation,30.19,105986,0.5,Medium
+CAR,Honda,Honda Model 4,Battery Replacement,175.55,13401,2.9,High
+CAR,Toyota,Toyota Model 5,Battery Replacement,161.04,51820,2.6,Medium
+TRUCK,Scania,Scania Model 2,Chain Lube,55.43,131836,1.2,Medium
+TRUCK,Mercedes,Mercedes Model 1,Air Filter,83.4,15253,1.5,High
+TRUCK,MAN,MAN Model 2,Air Filter,104.24,153507,1.6,Medium
+CAR,Honda,Honda Model 1,Air Filter,34.15,135452,0.7,High
+CAR,Honda,Honda Model 1,Battery Replacement,146.27,60736,2.6,Medium
+CAR,Honda,Honda Model 4,Tire Rotation,42.22,12198,0.8,High
+TRUCK,MAN,MAN Model 3,Oil Change,248.18,164734,4.1,High
+BIKE,Harley,Harley Model 1,Tire Rotation,29.67,179093,0.6,Low
+BIKE,Ducati,Ducati Model 2,Tire Rotation,36.82,79860,0.7,High
+CAR,BMW,BMW Model 2,Battery Replacement,138.58,137679,2.9,Low
+CAR,BMW,BMW Model 1,Battery Replacement,148.7,28964,3.5,High
+CAR,Honda,Honda Model 4,Air Filter,33.02,77071,0.5,Medium
+BIKE,Harley,Harley Model 2,Oil Change,58.49,57689,1.4,Low
+TRUCK,Volvo,Volvo Model 1,Air Filter,97.01,101587,1.9,Medium
+BIKE,Kawasaki,Kawasaki Model 5,Battery Replacement,125.14,144672,2.1,Low
+TRUCK,Mercedes,Mercedes Model 4,Brake Pad Replacement,550.13,176490,10.4,High
+BIKE,Harley,Harley Model 3,Chain Lube,18.68,43342,0.3,High
+BIKE,Harley,Harley Model 1,Chain Lube,18.77,103523,0.3,Low
+CAR,Ford,Ford Model 2,Chain Lube,21.91,128794,0.3,Low
+CAR,BMW,BMW Model 4,Air Filter,35.44,70130,0.6,High
+TRUCK,Volvo,Volvo Model 4,Battery Replacement,433.79,106364,7.7,Medium
+BIKE,Yamaha,Yamaha Model 4,Chain Lube,18.76,120162,0.3,High
+BIKE,Yamaha,Yamaha Model 5,Air Filter,28.65,6870,0.5,Low
+CAR,BMW,BMW Model 3,Battery Replacement,175.33,180376,2.9,Medium
+TRUCK,Mercedes,Mercedes Model 5,Air Filter,99.34,129603,2.1,High
+BIKE,Harley,Harley Model 5,Battery Replacement,139.46,196009,2.5,Medium
+TRUCK,Scania,Scania Model 4,Brake Pad Replacement,566.24,70834,11.7,Medium
+TRUCK,Mercedes,Mercedes Model 2,Oil Change,259.08,15425,5.7,Low
+CAR,BMW,BMW Model 2,Brake Pad Replacement,229.53,39499,3.9,Low
+TRUCK,MAN,MAN Model 2,Tire Rotation,113.55,79665,2.2,Medium
+CAR,Ford,Ford Model 3,Brake Pad Replacement,184.52,66549,3.4,Low
+TRUCK,Volvo,Volvo Model 2,Air Filter,91.19,153800,1.7,Low
+TRUCK,Mercedes,Mercedes Model 4,Brake Pad Replacement,610.27,132628,11.3,High
+BIKE,Kawasaki,Kawasaki Model 3,Chain Lube,17.61,21458,0.3,High
+CAR,Honda,Honda Model 5,Air Filter,28.62,98804,0.5,Medium
+CAR,Ford,Ford Model 5,Air Filter,36.0,173523,0.5,Medium
+CAR,BMW,BMW Model 1,Chain Lube,23.33,52293,0.4,High
+TRUCK,Volvo,Volvo Model 5,Oil Change,242.84,40289,4.2,High
+CAR,BMW,BMW Model 2,Air Filter,34.86,79070,0.7,High
+BIKE,Ducati,Ducati Model 3,Oil Change,61.5,63686,1.3,High
+BIKE,Kawasaki,Kawasaki Model 2,Chain Lube,17.37,165490,0.4,High
+TRUCK,Mercedes,Mercedes Model 4,Air Filter,99.3,150991,2.0,Low
+BIKE,Kawasaki,Kawasaki Model 5,Tire Rotation,37.06,15204,0.5,High
+CAR,BMW,BMW Model 4,Air Filter,34.54,149097,0.6,High
+BIKE,Kawasaki,Kawasaki Model 2,Tire Rotation,36.87,47199,0.6,High
+BIKE,Kawasaki,Kawasaki Model 2,Oil Change,67.92,138500,1.4,High
+CAR,Ford,Ford Model 5,Tire Rotation,45.03,91122,0.8,High
+BIKE,Kawasaki,Kawasaki Model 5,Chain Lube,17.17,53765,0.3,Low
+TRUCK,Mercedes,Mercedes Model 2,Chain Lube,59.15,108554,1.2,Medium
+CAR,Ford,Ford Model 5,Chain Lube,22.82,108301,0.4,High
+BIKE,Harley,Harley Model 2,Oil Change,64.89,153075,1.4,Medium
+CAR,Ford,Ford Model 2,Chain Lube,21.51,27113,0.5,High
+BIKE,Ducati,Ducati Model 4,Battery Replacement,141.56,132488,1.9,High
+BIKE,Yamaha,Yamaha Model 1,Chain Lube,15.79,169334,0.3,Low
+BIKE,Kawasaki,Kawasaki Model 3,Brake Pad Replacement,191.89,166493,3.6,Low
+TRUCK,Scania,Scania Model 1,Brake Pad Replacement,576.51,12587,12.1,Medium
+CAR,BMW,BMW Model 3,Oil Change,77.54,148788,1.7,Medium
+BIKE,Harley,Harley Model 3,Battery Replacement,142.94,195588,2.7,Medium
+BIKE,Yamaha,Yamaha Model 2,Chain Lube,15.73,120719,0.3,High
+CAR,Honda,Honda Model 1,Air Filter,31.24,24032,0.7,High
+BIKE,Kawasaki,Kawasaki Model 1,Oil Change,70.73,160094,1.4,High
+BIKE,Kawasaki,Kawasaki Model 2,Oil Change,67.05,33856,1.1,Medium
+TRUCK,Volvo,Volvo Model 4,Tire Rotation,142.14,97172,2.3,Medium
+BIKE,Kawasaki,Kawasaki Model 3,Battery Replacement,109.77,145372,2.5,Low
+CAR,Toyota,Toyota Model 4,Tire Rotation,40.2,44309,0.8,Low
+CAR,Toyota,Toyota Model 5,Air Filter,33.31,199888,0.5,High
+CAR,Ford,Ford Model 2,Air Filter,33.48,12783,0.5,Medium
+CAR,Honda,Honda Model 2,Chain Lube,20.28,49045,0.4,Low
+CAR,Ford,Ford Model 2,Air Filter,33.88,112943,0.7,Medium
+CAR,Honda,Honda Model 5,Battery Replacement,155.16,191625,3.2,Low
+CAR,Honda,Honda Model 4,Oil Change,81.31,81179,1.8,Medium
+BIKE,Kawasaki,Kawasaki Model 5,Air Filter,27.09,115233,0.4,Medium
+CAR,Honda,Honda Model 5,Chain Lube,21.6,180678,0.3,High
+BIKE,Kawasaki,Kawasaki Model 4,Tire Rotation,38.36,140526,0.6,Low
+BIKE,Kawasaki,Kawasaki Model 4,Brake Pad Replacement,175.55,24446,2.6,High
+BIKE,Harley,Harley Model 4,Tire Rotation,30.54,59844,0.6,Low
+CAR,Ford,Ford Model 1,Air Filter,32.48,49299,0.5,Medium
+TRUCK,MAN,MAN Model 5,Chain Lube,68.59,133840,1.1,Medium
+BIKE,Yamaha,Yamaha Model 2,Air Filter,22.5,186446,0.5,Low
+BIKE,Ducati,Ducati Model 4,Air Filter,28.34,191004,0.4,Low
+CAR,Ford,Ford Model 3,Chain Lube,20.48,38490,0.5,Medium
+CAR,Toyota,Toyota Model 3,Tire Rotation,38.42,69773,0.9,High
+TRUCK,Volvo,Volvo Model 2,Tire Rotation,137.69,147450,2.4,Medium
+BIKE,Kawasaki,Kawasaki Model 2,Battery Replacement,128.13,63983,2.7,High
+CAR,BMW,BMW Model 1,Battery Replacement,169.4,40262,3.0,Medium
+CAR,BMW,BMW Model 4,Chain Lube,20.43,140501,0.4,High
+CAR,Toyota,Toyota Model 5,Brake Pad Replacement,219.86,178231,3.6,Medium
+CAR,Honda,Honda Model 1,Battery Replacement,177.66,63030,3.5,Medium
+TRUCK,Mercedes,Mercedes Model 4,Battery Replacement,500.13,126375,10.4,Medium
+TRUCK,Mercedes,Mercedes Model 5,Brake Pad Replacement,711.07,54778,10.9,Medium
+BIKE,Harley,Harley Model 3,Tire Rotation,35.76,5272,0.8,Medium
+TRUCK,Mercedes,Mercedes Model 4,Oil Change,237.05,192374,5.4,Low
+CAR,Honda,Honda Model 4,Air Filter,34.52,131396,0.5,High
+CAR,BMW,BMW Model 1,Oil Change,74.65,189850,1.4,Low
+CAR,Ford,Ford Model 4,Oil Change,94.13,152147,1.5,Medium
+CAR,Toyota,Toyota Model 3,Air Filter,32.58,127257,0.5,Medium
+CAR,BMW,BMW Model 4,Oil Change,88.2,154101,1.4,High
+TRUCK,Mercedes,Mercedes Model 1,Brake Pad Replacement,689.28,181585,11.8,Medium
+CAR,Ford,Ford Model 3,Oil Change,92.06,75095,1.8,Low
+BIKE,Ducati,Ducati Model 4,Air Filter,26.38,35203,0.4,Medium
+CAR,BMW,BMW Model 5,Oil Change,72.13,139019,1.3,Low
+CAR,Honda,Honda Model 4,Chain Lube,19.85,6044,0.4,High
+TRUCK,Scania,Scania Model 3,Tire Rotation,124.28,167474,2.2,Medium
+BIKE,Ducati,Ducati Model 3,Air Filter,28.29,55607,0.4,High
+BIKE,Ducati,Ducati Model 1,Chain Lube,16.54,114103,0.4,Medium
+TRUCK,Scania,Scania Model 4,Brake Pad Replacement,565.13,195038,10.3,Low
+BIKE,Harley,Harley Model 5,Brake Pad Replacement,144.26,197688,2.9,Medium
+TRUCK,MAN,MAN Model 3,Air Filter,90.97,40661,2.1,Medium
+TRUCK,Mercedes,Mercedes Model 4,Tire Rotation,127.18,40264,2.7,Low
+CAR,Honda,Honda Model 4,Tire Rotation,41.99,5476,0.7,High
+BIKE,Yamaha,Yamaha Model 3,Chain Lube,15.51,71022,0.3,High
+BIKE,Kawasaki,Kawasaki Model 3,Chain Lube,14.7,6250,0.3,High
+CAR,BMW,BMW Model 5,Battery Replacement,174.62,124049,2.7,Low
+CAR,Ford,Ford Model 3,Brake Pad Replacement,200.2,165888,3.3,High
+TRUCK,Scania,Scania Model 4,Tire Rotation,118.13,11365,2.7,Low
+TRUCK,Mercedes,Mercedes Model 4,Air Filter,97.98,10551,2.1,High
+BIKE,Ducati,Ducati Model 4,Oil Change,68.18,150615,1.2,Medium
+BIKE,Harley,Harley Model 2,Tire Rotation,29.65,10000,0.7,Medium
+BIKE,Yamaha,Yamaha Model 5,Chain Lube,16.79,35256,0.3,Low
+TRUCK,Scania,Scania Model 3,Battery Replacement,441.71,91771,9.0,Low
+TRUCK,Volvo,Volvo Model 1,Oil Change,234.6,69085,4.6,Medium
+CAR,Toyota,Toyota Model 4,Tire Rotation,40.22,160359,0.9,Low
+CAR,Honda,Honda Model 2,Battery Replacement,145.95,16480,3.2,High
+BIKE,Yamaha,Yamaha Model 3,Air Filter,28.48,67444,0.5,Low
+BIKE,Ducati,Ducati Model 1,Chain Lube,17.79,41683,0.4,High
+BIKE,Harley,Harley Model 1,Brake Pad Replacement,167.12,144256,3.2,High
+TRUCK,Volvo,Volvo Model 3,Battery Replacement,456.74,55305,9.1,Low
+CAR,BMW,BMW Model 2,Air Filter,35.51,18398,0.5,Medium
+CAR,Ford,Ford Model 3,Chain Lube,22.73,78102,0.4,Low
+CAR,Ford,Ford Model 2,Tire Rotation,36.92,164653,0.7,Medium
+CAR,Ford,Ford Model 2,Chain Lube,22.23,173717,0.5,High
+BIKE,Ducati,Ducati Model 3,Chain Lube,18.36,76785,0.4,Medium
+TRUCK,Volvo,Volvo Model 4,Tire Rotation,123.74,153450,2.6,Medium
+TRUCK,MAN,MAN Model 5,Battery Replacement,524.03,189251,9.2,Low
+TRUCK,MAN,MAN Model 1,Chain Lube,58.84,46569,1.1,Low
+BIKE,Ducati,Ducati Model 3,Air Filter,26.33,12483,0.5,High
+TRUCK,MAN,MAN Model 1,Battery Replacement,441.74,12530,9.7,High
+BIKE,Ducati,Ducati Model 5,Tire Rotation,32.22,21846,0.7,High
+TRUCK,Mercedes,Mercedes Model 5,Oil Change,283.09,162704,4.5,High
+CAR,Ford,Ford Model 3,Chain Lube,21.7,9638,0.4,Medium
+CAR,BMW,BMW Model 3,Air Filter,30.61,117560,0.5,Medium
+CAR,Ford,Ford Model 2,Brake Pad Replacement,199.6,9292,3.5,Low
+CAR,Toyota,Toyota Model 5,Chain Lube,20.88,86663,0.4,Low
+CAR,BMW,BMW Model 2,Tire Rotation,44.83,91413,0.9,High
+BIKE,Yamaha,Yamaha Model 1,Chain Lube,18.59,176883,0.4,High
+BIKE,Kawasaki,Kawasaki Model 4,Oil Change,62.36,47195,1.2,Low
+CAR,BMW,BMW Model 1,Air Filter,28.45,77425,0.6,Medium
+TRUCK,Scania,Scania Model 4,Brake Pad Replacement,594.55,8536,14.3,Medium
+BIKE,Kawasaki,Kawasaki Model 2,Tire Rotation,37.12,55478,0.6,High
+TRUCK,Mercedes,Mercedes Model 5,Tire Rotation,115.99,90326,2.1,Low
+TRUCK,Scania,Scania Model 4,Tire Rotation,127.32,114729,2.4,High
+CAR,BMW,BMW Model 4,Brake Pad Replacement,202.09,27682,4.0,High
+BIKE,Kawasaki,Kawasaki Model 5,Oil Change,66.15,61765,1.3,High
+TRUCK,Mercedes,Mercedes Model 3,Air Filter,90.73,38165,1.9,High
+CAR,Toyota,Toyota Model 1,Tire Rotation,44.49,44782,0.8,Low
+BIKE,Ducati,Ducati Model 1,Oil Change,67.74,17476,1.4,High
+BIKE,Ducati,Ducati Model 2,Brake Pad Replacement,159.46,155228,3.6,Medium
+BIKE,Harley,Harley Model 1,Air Filter,24.55,127747,0.5,High
+TRUCK,MAN,MAN Model 5,Chain Lube,60.34,62604,1.4,High
+TRUCK,MAN,MAN Model 4,Battery Replacement,417.41,175143,9.1,Low
+BIKE,Kawasaki,Kawasaki Model 3,Tire Rotation,37.9,134294,0.7,Low
+TRUCK,Volvo,Volvo Model 1,Tire Rotation,122.72,138087,1.9,High
+TRUCK,Scania,Scania Model 3,Chain Lube,63.75,25188,1.1,Low
+CAR,BMW,BMW Model 5,Battery Replacement,135.7,86728,2.6,Medium
+BIKE,Harley,Harley Model 3,Chain Lube,15.43,177117,0.3,Low
+BIKE,Harley,Harley Model 2,Tire Rotation,30.01,80330,0.7,High
+BIKE,Kawasaki,Kawasaki Model 3,Oil Change,60.01,158934,1.1,High
+CAR,Ford,Ford Model 5,Oil Change,76.56,107656,1.7,Medium
+BIKE,Harley,Harley Model 1,Tire Rotation,29.91,126992,0.6,Low
+CAR,Honda,Honda Model 1,Oil Change,74.24,71154,1.4,Medium
+TRUCK,Scania,Scania Model 5,Battery Replacement,478.56,64501,10.4,Low
+BIKE,Kawasaki,Kawasaki Model 5,Tire Rotation,36.85,121141,0.5,High
+BIKE,Yamaha,Yamaha Model 1,Battery Replacement,134.34,41193,2.2,Low
+CAR,Ford,Ford Model 3,Brake Pad Replacement,199.87,28905,4.2,Medium
+BIKE,Kawasaki,Kawasaki Model 3,Chain Lube,15.17,32549,0.3,High
+BIKE,Yamaha,Yamaha Model 3,Chain Lube,18.78,42980,0.3,Low
+BIKE,Yamaha,Yamaha Model 3,Chain Lube,17.88,189648,0.3,Medium
+CAR,Ford,Ford Model 5,Battery Replacement,141.7,140776,2.5,High
+TRUCK,Volvo,Volvo Model 3,Battery Replacement,532.39,123371,10.4,Medium
+CAR,Toyota,Toyota Model 5,Battery Replacement,169.27,189314,2.7,Low
+TRUCK,MAN,MAN Model 2,Air Filter,85.52,188310,1.7,Medium
+TRUCK,Scania,Scania Model 3,Battery Replacement,482.87,72747,7.4,Low
+TRUCK,MAN,MAN Model 2,Air Filter,82.34,32806,2.0,High
+TRUCK,Volvo,Volvo Model 3,Chain Lube,56.96,84096,1.2,High
+BIKE,Kawasaki,Kawasaki Model 3,Oil Change,70.36,196099,1.1,Medium
+TRUCK,MAN,MAN Model 1,Chain Lube,54.06,151866,1.4,Low
+TRUCK,Scania,Scania Model 3,Air Filter,105.72,49674,1.7,High
+TRUCK,Scania,Scania Model 4,Battery Replacement,412.91,34963,8.7,High
+TRUCK,Mercedes,Mercedes Model 1,Air Filter,93.81,75598,1.5,High
+CAR,Toyota,Toyota Model 1,Chain Lube,22.78,138440,0.4,Low
+BIKE,Yamaha,Yamaha Model 3,Battery Replacement,142.09,130099,2.1,Medium
+BIKE,Yamaha,Yamaha Model 4,Air Filter,24.9,116596,0.5,Medium
+BIKE,Harley,Harley Model 4,Chain Lube,16.89,185127,0.3,High
+CAR,Ford,Ford Model 3,Air Filter,29.1,14697,0.6,Medium
+CAR,Honda,Honda Model 1,Battery Replacement,157.36,78116,3.2,Low
+CAR,Honda,Honda Model 3,Brake Pad Replacement,232.92,190831,4.5,High
+BIKE,Yamaha,Yamaha Model 1,Brake Pad Replacement,150.52,37994,3.5,Low
+BIKE,Kawasaki,Kawasaki Model 5,Tire Rotation,31.0,55074,0.7,Medium
+CAR,Ford,Ford Model 3,Brake Pad Replacement,230.98,94489,3.7,Medium
+TRUCK,Mercedes,Mercedes Model 1,Battery Replacement,435.8,82826,8.5,Medium
+BIKE,Harley,Harley Model 1,Oil Change,76.64,89443,1.5,High
+TRUCK,Mercedes,Mercedes Model 2,Tire Rotation,108.98,189642,2.4,High
+TRUCK,Mercedes,Mercedes Model 3,Brake Pad Replacement,597.68,46277,13.9,Low
+BIKE,Harley,Harley Model 3,Tire Rotation,28.98,42863,0.6,Medium
+BIKE,Harley,Harley Model 3,Oil Change,57.63,139445,1.3,High
+BIKE,Kawasaki,Kawasaki Model 1,Chain Lube,18.48,29981,0.3,Medium
+TRUCK,Mercedes,Mercedes Model 1,Tire Rotation,116.15,76133,2.2,High
+CAR,Toyota,Toyota Model 4,Brake Pad Replacement,218.15,6244,3.3,High
+TRUCK,Volvo,Volvo Model 3,Tire Rotation,123.52,11809,1.9,Medium
+TRUCK,MAN,MAN Model 5,Oil Change,268.3,185129,4.3,High
+TRUCK,Mercedes,Mercedes Model 3,Oil Change,240.21,106312,5.6,Low
+TRUCK,Scania,Scania Model 2,Oil Change,249.92,19030,4.3,High
+TRUCK,Mercedes,Mercedes Model 4,Oil Change,229.79,112261,4.0,Low
+TRUCK,MAN,MAN Model 2,Tire Rotation,124.04,131486,2.6,High
+BIKE,Ducati,Ducati Model 5,Air Filter,23.12,149001,0.6,Medium
+CAR,Honda,Honda Model 1,Air Filter,32.08,115724,0.7,Medium
+CAR,BMW,BMW Model 5,Battery Replacement,168.26,101654,2.5,High
+TRUCK,Mercedes,Mercedes Model 1,Air Filter,95.78,156735,1.6,High
+CAR,BMW,BMW Model 1,Tire Rotation,37.71,113784,0.9,Low
+BIKE,Kawasaki,Kawasaki Model 5,Battery Replacement,116.56,103381,2.0,High
+BIKE,Yamaha,Yamaha Model 5,Tire Rotation,30.92,168767,0.7,High
+TRUCK,MAN,MAN Model 3,Oil Change,224.43,4674,5.3,Medium
+CAR,Ford,Ford Model 4,Air Filter,33.49,103559,0.7,High
+TRUCK,Scania,Scania Model 1,Air Filter,94.55,21281,1.9,Low
+BIKE,Ducati,Ducati Model 1,Oil Change,59.27,119396,1.5,Low
+CAR,Honda,Honda Model 5,Chain Lube,18.22,91285,0.4,Low
+TRUCK,Volvo,Volvo Model 4,Battery Replacement,485.75,144087,10.6,High
+BIKE,Ducati,Ducati Model 1,Battery Replacement,130.26,27793,2.4,High
+BIKE,Kawasaki,Kawasaki Model 1,Oil Change,71.25,2662,1.5,High
+TRUCK,Mercedes,Mercedes Model 5,Battery Replacement,481.99,83683,8.3,Medium
+TRUCK,MAN,MAN Model 3,Battery Replacement,513.04,149760,9.7,Medium
+BIKE,Kawasaki,Kawasaki Model 5,Air Filter,23.41,26112,0.5,High
+BIKE,Harley,Harley Model 5,Battery Replacement,125.54,74584,2.5,Medium
+BIKE,Yamaha,Yamaha Model 3,Air Filter,26.78,45632,0.4,Medium
+BIKE,Harley,Harley Model 2,Tire Rotation,31.93,25145,0.6,Medium
+TRUCK,Mercedes,Mercedes Model 1,Air Filter,85.92,137734,2.2,Medium
+CAR,Ford,Ford Model 3,Oil Change,83.45,100610,1.5,High
+BIKE,Ducati,Ducati Model 1,Battery Replacement,133.71,94088,2.0,Medium
+TRUCK,Volvo,Volvo Model 4,Battery Replacement,461.36,178876,8.0,High
+BIKE,Kawasaki,Kawasaki Model 4,Brake Pad Replacement,179.29,20319,3.6,Medium
+CAR,Honda,Honda Model 5,Battery Replacement,150.42,6112,2.6,Medium
+TRUCK,MAN,MAN Model 1,Battery Replacement,491.06,79408,9.7,Medium
+TRUCK,Mercedes,Mercedes Model 1,Oil Change,275.1,47859,4.3,Low
+TRUCK,Volvo,Volvo Model 4,Air Filter,103.03,170591,1.9,Medium
+TRUCK,Mercedes,Mercedes Model 5,Oil Change,236.42,145234,4.7,Low
+TRUCK,MAN,MAN Model 5,Tire Rotation,138.64,47504,2.3,High
+BIKE,Yamaha,Yamaha Model 2,Brake Pad Replacement,147.73,60779,3.0,Medium
+TRUCK,Scania,Scania Model 2,Tire Rotation,124.77,175513,2.0,Medium
+BIKE,Ducati,Ducati Model 5,Battery Replacement,121.06,104891,2.2,High
+CAR,BMW,BMW Model 3,Brake Pad Replacement,223.11,169846,3.8,Medium
+BIKE,Kawasaki,Kawasaki Model 1,Oil Change,58.0,31923,1.4,Medium
+CAR,BMW,BMW Model 1,Oil Change,73.29,195785,1.6,Medium
+BIKE,Ducati,Ducati Model 4,Chain Lube,18.37,20190,0.3,Low
+BIKE,Kawasaki,Kawasaki Model 5,Air Filter,25.54,61431,0.5,Low
+CAR,Honda,Honda Model 3,Battery Replacement,173.9,23071,2.9,Medium
+TRUCK,MAN,MAN Model 4,Tire Rotation,119.72,107179,2.7,Medium
+CAR,Ford,Ford Model 3,Brake Pad Replacement,193.88,66118,3.3,Medium
+TRUCK,Volvo,Volvo Model 2,Chain Lube,63.35,68705,1.0,Low
+BIKE,Ducati,Ducati Model 3,Air Filter,25.84,98886,0.4,Medium
+TRUCK,Mercedes,Mercedes Model 1,Tire Rotation,111.94,61085,2.7,Low
+TRUCK,Mercedes,Mercedes Model 2,Tire Rotation,110.6,64493,2.6,Low
+BIKE,Kawasaki,Kawasaki Model 3,Air Filter,27.23,192672,0.5,Medium
+CAR,Ford,Ford Model 1,Battery Replacement,158.09,57814,2.4,High
+CAR,Honda,Honda Model 1,Chain Lube,20.92,183049,0.3,High
+CAR,Toyota,Toyota Model 3,Chain Lube,19.67,198566,0.4,Medium
+BIKE,Kawasaki,Kawasaki Model 2,Chain Lube,19.16,161670,0.3,Medium
+CAR,Honda,Honda Model 2,Battery Replacement,158.04,162332,3.1,Low
+TRUCK,MAN,MAN Model 3,Brake Pad Replacement,672.21,143450,11.0,High
+BIKE,Ducati,Ducati Model 1,Air Filter,27.56,176128,0.5,Medium
+CAR,BMW,BMW Model 4,Battery Replacement,151.85,92982,3.3,Medium
+BIKE,Yamaha,Yamaha Model 1,Battery Replacement,130.33,120473,2.4,Medium
+CAR,Toyota,Toyota Model 4,Chain Lube,22.33,97906,0.4,Medium
+TRUCK,MAN,MAN Model 4,Tire Rotation,110.31,55772,2.3,High
+CAR,Ford,Ford Model 2,Brake Pad Replacement,188.24,145043,4.7,Low
+CAR,Honda,Honda Model 5,Air Filter,32.61,6155,0.7,High
+TRUCK,Mercedes,Mercedes Model 4,Oil Change,242.06,2895,5.7,Low
+BIKE,Harley,Harley Model 5,Tire Rotation,29.72,69147,0.7,Low
+BIKE,Harley,Harley Model 5,Tire Rotation,38.28,110011,0.6,Medium
+TRUCK,MAN,MAN Model 3,Battery Replacement,446.3,6528,10.4,Low
+CAR,Honda,Honda Model 2,Brake Pad Replacement,239.16,4700,4.0,High
+BIKE,Ducati,Ducati Model 3,Brake Pad Replacement,151.35,17995,3.0,High
+TRUCK,Volvo,Volvo Model 2,Battery Replacement,436.78,54530,9.4,Low
+BIKE,Kawasaki,Kawasaki Model 5,Brake Pad Replacement,153.58,119510,3.4,Medium
+CAR,Toyota,Toyota Model 2,Tire Rotation,46.96,75327,0.7,High
+TRUCK,Scania,Scania Model 4,Oil Change,239.41,164614,5.0,Low
+BIKE,Kawasaki,Kawasaki Model 5,Oil Change,61.35,63802,1.4,High
+CAR,Ford,Ford Model 5,Air Filter,33.34,158952,0.7,High
+BIKE,Kawasaki,Kawasaki Model 1,Air Filter,25.55,185949,0.5,High
+BIKE,Kawasaki,Kawasaki Model 4,Battery Replacement,133.67,61704,2.4,High
+TRUCK,MAN,MAN Model 1,Brake Pad Replacement,684.12,149020,13.1,High
+BIKE,Ducati,Ducati Model 2,Air Filter,22.23,54076,0.5,Low
+TRUCK,MAN,MAN Model 4,Chain Lube,70.23,149139,1.3,Low
+BIKE,Ducati,Ducati Model 3,Chain Lube,15.42,199843,0.4,Low
+CAR,Ford,Ford Model 4,Tire Rotation,45.99,117616,0.9,Medium
+BIKE,Kawasaki,Kawasaki Model 3,Tire Rotation,31.37,12406,0.6,Low
+BIKE,Kawasaki,Kawasaki Model 2,Chain Lube,18.67,69398,0.4,Medium
+CAR,Ford,Ford Model 4,Oil Change,78.35,41456,1.8,Medium
+BIKE,Yamaha,Yamaha Model 4,Chain Lube,16.92,38180,0.3,Medium
+TRUCK,Volvo,Volvo Model 1,Oil Change,261.05,190335,4.1,High
+TRUCK,MAN,MAN Model 2,Tire Rotation,127.45,120216,2.6,High
+TRUCK,MAN,MAN Model 5,Battery Replacement,497.8,19323,7.7,Medium
+TRUCK,Volvo,Volvo Model 5,Air Filter,97.49,23284,1.7,High
+TRUCK,Mercedes,Mercedes Model 2,Brake Pad Replacement,628.53,43080,9.7,High
+TRUCK,Scania,Scania Model 2,Brake Pad Replacement,557.02,141518,12.9,Medium
+TRUCK,Mercedes,Mercedes Model 5,Chain Lube,63.68,75057,1.4,Medium
+TRUCK,MAN,MAN Model 3,Air Filter,86.69,89021,1.8,High
+TRUCK,Mercedes,Mercedes Model 5,Air Filter,87.88,163046,2.1,Medium
+BIKE,Kawasaki,Kawasaki Model 2,Battery Replacement,117.49,128739,2.3,Low
+CAR,BMW,BMW Model 4,Oil Change,85.48,41447,1.7,High
+CAR,Toyota,Toyota Model 4,Chain Lube,23.02,35882,0.4,High
+BIKE,Yamaha,Yamaha Model 3,Chain Lube,15.67,195911,0.3,High
+TRUCK,MAN,MAN Model 1,Oil Change,283.1,17211,4.8,High
+TRUCK,Volvo,Volvo Model 3,Tire Rotation,136.87,99558,2.1,High
+TRUCK,Scania,Scania Model 1,Tire Rotation,108.64,114304,2.6,Medium
+CAR,BMW,BMW Model 2,Brake Pad Replacement,200.7,98656,4.7,Low
+BIKE,Yamaha,Yamaha Model 3,Tire Rotation,30.69,67075,0.6,Medium
+CAR,Honda,Honda Model 1,Oil Change,72.96,48192,1.3,Medium
+CAR,Honda,Honda Model 2,Chain Lube,23.58,46711,0.4,Low
+BIKE,Ducati,Ducati Model 3,Brake Pad Replacement,171.54,45197,3.8,High
+TRUCK,Scania,Scania Model 3,Brake Pad Replacement,557.99,186526,14.4,Medium
+TRUCK,Volvo,Volvo Model 4,Air Filter,96.49,33695,1.9,Medium
+BIKE,Harley,Harley Model 5,Oil Change,60.02,198181,1.4,Low
+TRUCK,Mercedes,Mercedes Model 2,Tire Rotation,132.52,46740,2.3,High
+BIKE,Harley,Harley Model 3,Brake Pad Replacement,175.87,172080,3.7,Low
+BIKE,Ducati,Ducati Model 2,Battery Replacement,121.1,131887,2.5,High
+BIKE,Yamaha,Yamaha Model 1,Air Filter,23.23,59274,0.5,Medium
+TRUCK,Scania,Scania Model 4,Brake Pad Replacement,614.24,163458,11.6,Medium
+CAR,Ford,Ford Model 1,Chain Lube,22.33,19049,0.4,High
+TRUCK,MAN,MAN Model 4,Battery Replacement,494.23,191407,10.8,Low
+BIKE,Kawasaki,Kawasaki Model 5,Battery Replacement,121.9,59459,2.2,High
+BIKE,Yamaha,Yamaha Model 3,Air Filter,24.79,23066,0.5,High
+CAR,Ford,Ford Model 4,Air Filter,30.54,60338,0.7,High
+CAR,Honda,Honda Model 2,Air Filter,28.76,27968,0.6,Low
+TRUCK,Scania,Scania Model 1,Tire Rotation,112.55,11705,2.3,High
+CAR,BMW,BMW Model 5,Chain Lube,21.63,32593,0.4,Low
+CAR,Toyota,Toyota Model 3,Oil Change,78.79,75725,1.8,High
+CAR,BMW,BMW Model 1,Battery Replacement,142.23,129221,2.7,Medium
+BIKE,Kawasaki,Kawasaki Model 5,Brake Pad Replacement,183.46,14393,3.6,High
+BIKE,Harley,Harley Model 2,Chain Lube,19.06,165687,0.4,High
+TRUCK,Scania,Scania Model 5,Brake Pad Replacement,577.92,153137,12.9,High
+CAR,Toyota,Toyota Model 2,Air Filter,34.63,163224,0.7,High
+CAR,Honda,Honda Model 2,Chain Lube,19.18,119659,0.3,Low
+BIKE,Yamaha,Yamaha Model 5,Battery Replacement,121.35,138597,1.9,Low
+TRUCK,Volvo,Volvo Model 4,Tire Rotation,115.54,74636,2.4,Medium
+BIKE,Harley,Harley Model 1,Brake Pad Replacement,175.4,27220,2.7,High
+TRUCK,Mercedes,Mercedes Model 5,Battery Replacement,530.59,6937,9.0,High
+TRUCK,MAN,MAN Model 2,Tire Rotation,130.67,186000,2.4,Medium
+TRUCK,Scania,Scania Model 1,Chain Lube,63.38,120411,1.1,Medium
+BIKE,Kawasaki,Kawasaki Model 3,Chain Lube,17.27,89222,0.3,High
+CAR,Ford,Ford Model 5,Brake Pad Replacement,192.67,49196,3.3,High
+BIKE,Ducati,Ducati Model 3,Tire Rotation,29.92,67975,0.6,High
+CAR,Honda,Honda Model 5,Air Filter,34.17,12047,0.5,Low
+CAR,Honda,Honda Model 3,Air Filter,35.11,187924,0.7,High
+BIKE,Yamaha,Yamaha Model 4,Chain Lube,18.35,83218,0.3,Medium
+CAR,Honda,Honda Model 1,Chain Lube,21.97,117051,0.4,Low
+CAR,BMW,BMW Model 1,Tire Rotation,44.22,161532,0.9,Low
+BIKE,Kawasaki,Kawasaki Model 4,Brake Pad Replacement,163.01,58873,2.9,Medium
+TRUCK,Mercedes,Mercedes Model 1,Brake Pad Replacement,549.54,27615,14.2,Medium
+BIKE,Yamaha,Yamaha Model 3,Chain Lube,16.64,93231,0.3,Low
+CAR,Ford,Ford Model 1,Air Filter,31.62,195496,0.7,Medium
+CAR,Honda,Honda Model 4,Air Filter,34.41,56596,0.6,Medium
+TRUCK,Scania,Scania Model 4,Chain Lube,59.57,1781,1.3,Medium
+TRUCK,Mercedes,Mercedes Model 2,Battery Replacement,477.9,35099,10.1,Low
+TRUCK,Volvo,Volvo Model 1,Oil Change,284.05,73093,4.0,High
+TRUCK,Mercedes,Mercedes Model 2,Air Filter,84.36,138259,1.5,Low
+BIKE,Ducati,Ducati Model 3,Brake Pad Replacement,187.22,47619,3.2,High
+TRUCK,Volvo,Volvo Model 2,Oil Change,286.01,118731,5.7,Medium
+BIKE,Yamaha,Yamaha Model 1,Air Filter,22.66,114338,0.4,Medium
+BIKE,Ducati,Ducati Model 2,Chain Lube,15.56,32883,0.3,Medium
+BIKE,Ducati,Ducati Model 3,Air Filter,24.51,7770,0.4,Low
+CAR,Honda,Honda Model 1,Battery Replacement,178.89,115097,3.3,Medium
+CAR,Honda,Honda Model 2,Battery Replacement,162.21,72321,3.4,Medium
+CAR,Ford,Ford Model 3,Battery Replacement,151.51,133819,2.8,Medium
+CAR,Ford,Ford Model 3,Battery Replacement,140.73,153383,3.6,Medium
+CAR,Toyota,Toyota Model 4,Chain Lube,23.39,42075,0.3,High
+CAR,BMW,BMW Model 2,Air Filter,32.91,162893,0.7,High
+CAR,Honda,Honda Model 3,Tire Rotation,40.68,97077,0.7,High
+BIKE,Ducati,Ducati Model 2,Chain Lube,18.0,121190,0.3,Low
+CAR,Ford,Ford Model 5,Battery Replacement,153.63,185658,3.0,Medium
+BIKE,Kawasaki,Kawasaki Model 3,Air Filter,26.42,22068,0.5,High
+BIKE,Harley,Harley Model 5,Tire Rotation,37.6,199305,0.7,High
+TRUCK,Volvo,Volvo Model 2,Chain Lube,66.58,85076,1.0,High
+CAR,BMW,BMW Model 3,Battery Replacement,138.35,109646,2.5,High
+TRUCK,Scania,Scania Model 5,Oil Change,249.9,106500,4.4,High
+BIKE,Ducati,Ducati Model 2,Air Filter,23.47,17209,0.5,Medium
+TRUCK,Mercedes,Mercedes Model 1,Battery Replacement,518.13,38536,9.4,High
+TRUCK,MAN,MAN Model 4,Air Filter,97.44,13008,1.6,Low
+BIKE,Ducati,Ducati Model 3,Battery Replacement,126.04,130270,2.2,Low
+CAR,Honda,Honda Model 1,Tire Rotation,43.85,128379,0.9,High
+BIKE,Ducati,Ducati Model 1,Tire Rotation,33.58,6891,0.6,High
+CAR,Ford,Ford Model 5,Chain Lube,22.17,66707,0.5,High
+BIKE,Harley,Harley Model 4,Tire Rotation,34.92,114754,0.5,High
+CAR,Toyota,Toyota Model 1,Chain Lube,18.69,89910,0.4,High
+BIKE,Kawasaki,Kawasaki Model 5,Chain Lube,17.44,84340,0.3,High
+TRUCK,Mercedes,Mercedes Model 1,Oil Change,272.82,85091,4.1,Low
+CAR,Toyota,Toyota Model 3,Oil Change,73.99,196397,1.6,Low
+CAR,Toyota,Toyota Model 5,Air Filter,32.08,187968,0.7,High
+CAR,Honda,Honda Model 2,Tire Rotation,43.49,43839,0.7,High
+TRUCK,MAN,MAN Model 4,Air Filter,104.0,100371,1.9,Low
+TRUCK,MAN,MAN Model 1,Tire Rotation,118.77,183186,2.5,Low
+BIKE,Harley,Harley Model 5,Battery Replacement,113.67,20252,2.6,Medium
+BIKE,Yamaha,Yamaha Model 2,Chain Lube,14.74,183981,0.3,Low
+BIKE,Ducati,Ducati Model 1,Air Filter,28.65,178710,0.5,High
+TRUCK,Volvo,Volvo Model 5,Oil Change,248.81,4324,3.9,Low
+CAR,BMW,BMW Model 2,Battery Replacement,170.72,111517,2.8,Low
+CAR,Honda,Honda Model 3,Brake Pad Replacement,190.04,113515,3.4,High
+BIKE,Ducati,Ducati Model 1,Battery Replacement,133.17,102872,2.0,Low
+BIKE,Harley,Harley Model 2,Chain Lube,18.5,103780,0.3,Low
+TRUCK,Scania,Scania Model 2,Air Filter,106.42,182282,2.0,Low
+BIKE,Ducati,Ducati Model 1,Tire Rotation,29.39,134725,0.6,High
+BIKE,Harley,Harley Model 4,Air Filter,22.09,146381,0.5,High
+BIKE,Harley,Harley Model 4,Tire Rotation,32.71,93530,0.8,Low
+BIKE,Kawasaki,Kawasaki Model 3,Air Filter,28.08,142533,0.5,Low
+TRUCK,Mercedes,Mercedes Model 3,Air Filter,94.48,18668,1.5,High
+BIKE,Ducati,Ducati Model 3,Battery Replacement,142.32,185555,2.5,Medium
+TRUCK,Scania,Scania Model 3,Air Filter,96.81,176212,1.5,High
+CAR,Ford,Ford Model 5,Oil Change,91.08,128613,1.7,Low
+TRUCK,Mercedes,Mercedes Model 4,Tire Rotation,115.88,145650,2.2,High
+BIKE,Ducati,Ducati Model 3,Brake Pad Replacement,172.24,160477,3.7,Medium
+CAR,Honda,Honda Model 5,Brake Pad Replacement,183.34,111472,4.5,Medium
+TRUCK,MAN,MAN Model 4,Battery Replacement,427.45,17376,10.4,High
+BIKE,Yamaha,Yamaha Model 5,Tire Rotation,37.63,82362,0.6,High
+CAR,Ford,Ford Model 4,Oil Change,87.45,173525,1.7,Medium
+CAR,Honda,Honda Model 2,Battery Replacement,139.3,133007,2.8,Medium
+CAR,BMW,BMW Model 1,Oil Change,82.12,140007,1.4,Low
+CAR,Ford,Ford Model 4,Battery Replacement,166.16,174187,2.7,Low
+TRUCK,Volvo,Volvo Model 5,Air Filter,102.65,43707,1.7,Low
+CAR,BMW,BMW Model 3,Tire Rotation,43.75,30839,0.8,Low
+BIKE,Yamaha,Yamaha Model 5,Battery Replacement,117.91,108151,2.3,Medium
+TRUCK,MAN,MAN Model 3,Brake Pad Replacement,598.33,70664,10.3,Low
+TRUCK,Mercedes,Mercedes Model 2,Chain Lube,57.23,6885,1.1,High
+BIKE,Harley,Harley Model 4,Oil Change,63.09,11129,1.5,High
+CAR,Ford,Ford Model 1,Brake Pad Replacement,215.26,53842,4.7,High
+TRUCK,MAN,MAN Model 1,Battery Replacement,445.75,129498,8.6,High
+TRUCK,Mercedes,Mercedes Model 3,Tire Rotation,136.77,144057,2.4,Medium
+TRUCK,MAN,MAN Model 3,Chain Lube,71.51,191124,1.4,Low
+TRUCK,Volvo,Volvo Model 1,Oil Change,224.67,147818,4.0,High
+BIKE,Yamaha,Yamaha Model 4,Battery Replacement,116.61,32285,2.9,Medium
+BIKE,Ducati,Ducati Model 5,Air Filter,22.67,106354,0.4,High
+BIKE,Kawasaki,Kawasaki Model 2,Tire Rotation,37.41,32192,0.8,Low
+BIKE,Harley,Harley Model 5,Air Filter,25.15,127036,0.5,Low
+TRUCK,MAN,MAN Model 5,Tire Rotation,143.93,110256,2.0,High
+TRUCK,Mercedes,Mercedes Model 2,Brake Pad Replacement,602.68,159734,10.9,Low
+CAR,Ford,Ford Model 1,Chain Lube,19.3,194063,0.3,High
+BIKE,Ducati,Ducati Model 5,Tire Rotation,35.84,15635,0.6,Medium
+BIKE,Yamaha,Yamaha Model 3,Chain Lube,14.6,138681,0.3,Medium
+BIKE,Yamaha,Yamaha Model 2,Brake Pad Replacement,145.75,44226,3.1,High
+CAR,BMW,BMW Model 4,Tire Rotation,36.89,172186,0.7,Medium
+BIKE,Harley,Harley Model 5,Battery Replacement,120.22,40820,2.3,Medium
+BIKE,Yamaha,Yamaha Model 5,Oil Change,76.46,176402,1.2,Low
+BIKE,Ducati,Ducati Model 1,Air Filter,26.76,114964,0.4,Low
+BIKE,Kawasaki,Kawasaki Model 2,Battery Replacement,141.43,28619,2.3,High
+CAR,Honda,Honda Model 3,Oil Change,82.62,98283,1.4,Medium
+CAR,Ford,Ford Model 2,Battery Replacement,161.52,187721,3.3,Low
+CAR,Toyota,Toyota Model 5,Battery Replacement,161.7,52217,3.2,Medium
+CAR,Ford,Ford Model 3,Tire Rotation,42.36,49393,0.8,High
+CAR,BMW,BMW Model 1,Battery Replacement,135.14,104783,2.7,Low
+CAR,Toyota,Toyota Model 1,Brake Pad Replacement,192.62,19019,3.6,Medium
+BIKE,Yamaha,Yamaha Model 4,Tire Rotation,34.58,165350,0.7,High
+CAR,Ford,Ford Model 4,Brake Pad Replacement,198.61,156319,4.6,Medium
+TRUCK,Scania,Scania Model 1,Tire Rotation,136.21,168682,2.5,Low
+BIKE,Harley,Harley Model 2,Chain Lube,16.16,141090,0.3,Medium
+TRUCK,Mercedes,Mercedes Model 5,Brake Pad Replacement,540.39,61125,10.6,Low
+BIKE,Yamaha,Yamaha Model 2,Chain Lube,17.99,44752,0.4,High
+BIKE,Kawasaki,Kawasaki Model 4,Battery Replacement,142.11,4739,2.5,Low
+BIKE,Kawasaki,Kawasaki Model 1,Air Filter,22.93,120734,0.5,Low
+CAR,Ford,Ford Model 3,Air Filter,33.98,168821,0.6,High
+TRUCK,Volvo,Volvo Model 1,Air Filter,107.27,33737,2.1,Medium
+CAR,Honda,Honda Model 4,Air Filter,31.19,175884,0.5,Low
+BIKE,Ducati,Ducati Model 2,Tire Rotation,34.23,168902,0.6,Medium
+BIKE,Yamaha,Yamaha Model 4,Tire Rotation,33.75,86398,0.6,Medium
+CAR,BMW,BMW Model 4,Air Filter,35.3,75906,0.6,High
+TRUCK,MAN,MAN Model 5,Air Filter,96.31,130322,1.5,Medium
+TRUCK,Scania,Scania Model 1,Oil Change,239.9,74185,5.2,Medium
+BIKE,Kawasaki,Kawasaki Model 2,Oil Change,58.8,27979,1.1,Medium
+CAR,Honda,Honda Model 5,Chain Lube,18.5,52241,0.4,High
+BIKE,Ducati,Ducati Model 3,Oil Change,58.2,141969,1.3,High
+BIKE,Kawasaki,Kawasaki Model 1,Brake Pad Replacement,175.15,86205,3.4,Medium
+BIKE,Ducati,Ducati Model 5,Battery Replacement,113.87,138241,2.4,Low
+TRUCK,Volvo,Volvo Model 4,Battery Replacement,517.82,169481,10.7,Low
+TRUCK,Volvo,Volvo Model 2,Chain Lube,66.85,28070,1.2,High
+TRUCK,Volvo,Volvo Model 1,Oil Change,256.36,158179,5.4,Medium
+BIKE,Kawasaki,Kawasaki Model 4,Brake Pad Replacement,178.65,2111,3.2,Low
+TRUCK,Mercedes,Mercedes Model 4,Tire Rotation,132.48,46482,2.9,Low
+CAR,Ford,Ford Model 5,Oil Change,80.33,139786,1.4,Low
+TRUCK,Mercedes,Mercedes Model 5,Brake Pad Replacement,588.84,164937,9.8,Low
+TRUCK,Scania,Scania Model 1,Air Filter,94.86,145301,1.7,High
+BIKE,Yamaha,Yamaha Model 4,Air Filter,23.47,195865,0.5,Medium
+CAR,BMW,BMW Model 1,Air Filter,35.53,74822,0.6,High
+BIKE,Ducati,Ducati Model 4,Battery Replacement,109.38,3404,2.7,Medium
+BIKE,Harley,Harley Model 5,Oil Change,61.07,10796,1.0,Low
+CAR,Ford,Ford Model 2,Air Filter,29.24,197938,0.6,Medium
+BIKE,Yamaha,Yamaha Model 5,Brake Pad Replacement,150.96,196495,2.6,Low
+TRUCK,Mercedes,Mercedes Model 1,Battery Replacement,459.03,145784,9.2,Low
+CAR,Toyota,Toyota Model 3,Chain Lube,18.22,89762,0.4,Medium
+BIKE,Ducati,Ducati Model 2,Chain Lube,16.66,185993,0.3,High
+CAR,Toyota,Toyota Model 1,Tire Rotation,39.09,9996,0.7,Low
+CAR,Toyota,Toyota Model 3,Battery Replacement,157.4,37469,3.3,Medium
+TRUCK,Mercedes,Mercedes Model 1,Oil Change,216.83,58381,5.4,Medium
+BIKE,Harley,Harley Model 5,Battery Replacement,142.89,82791,2.4,Medium
+CAR,Toyota,Toyota Model 1,Air Filter,34.26,178719,0.5,Low
+BIKE,Yamaha,Yamaha Model 5,Brake Pad Replacement,183.99,169023,2.9,Medium
+TRUCK,Mercedes,Mercedes Model 5,Chain Lube,63.49,192372,1.0,High
+BIKE,Ducati,Ducati Model 3,Chain Lube,15.88,60655,0.3,High
+TRUCK,Volvo,Volvo Model 1,Battery Replacement,443.17,49816,10.4,Low
+CAR,Ford,Ford Model 1,Battery Replacement,174.77,87847,2.9,Low
+TRUCK,MAN,MAN Model 5,Oil Change,287.25,143964,3.9,High
+BIKE,Ducati,Ducati Model 1,Chain Lube,17.03,72144,0.3,Medium
+TRUCK,Mercedes,Mercedes Model 5,Air Filter,103.46,27175,2.0,Medium
+BIKE,Harley,Harley Model 1,Battery Replacement,108.27,163016,2.4,High
+CAR,Toyota,Toyota Model 5,Tire Rotation,36.63,183520,0.9,Medium
+TRUCK,Scania,Scania Model 1,Brake Pad Replacement,593.82,193806,12.4,Medium
+CAR,Honda,Honda Model 2,Tire Rotation,37.53,61183,0.7,High
+BIKE,Kawasaki,Kawasaki Model 3,Brake Pad Replacement,177.32,75336,3.5,Medium
+TRUCK,MAN,MAN Model 1,Brake Pad Replacement,565.36,168477,10.8,Medium
+BIKE,Harley,Harley Model 5,Oil Change,60.09,50282,1.4,Medium
+CAR,Honda,Honda Model 2,Air Filter,27.27,182345,0.6,Low
+BIKE,Yamaha,Yamaha Model 2,Chain Lube,14.57,60080,0.4,High
+BIKE,Yamaha,Yamaha Model 5,Battery Replacement,135.99,23056,2.1,Medium
+TRUCK,MAN,MAN Model 2,Battery Replacement,535.25,85451,9.9,High
+CAR,Honda,Honda Model 1,Air Filter,34.95,97792,0.5,Low
+TRUCK,Scania,Scania Model 3,Tire Rotation,108.49,77343,2.8,Medium
+BIKE,Yamaha,Yamaha Model 1,Brake Pad Replacement,152.56,171946,3.7,High
+CAR,BMW,BMW Model 5,Chain Lube,21.64,50975,0.4,High
+BIKE,Ducati,Ducati Model 3,Tire Rotation,34.58,141427,0.7,Medium
+CAR,Honda,Honda Model 2,Brake Pad Replacement,239.33,40413,4.3,Low
+TRUCK,Volvo,Volvo Model 2,Tire Rotation,124.88,46415,2.6,Low
+TRUCK,Scania,Scania Model 3,Tire Rotation,132.06,48943,2.8,Medium
+BIKE,Yamaha,Yamaha Model 2,Battery Replacement,113.06,177360,2.5,Low
+TRUCK,Volvo,Volvo Model 4,Brake Pad Replacement,578.57,162768,11.4,Medium
+BIKE,Yamaha,Yamaha Model 1,Battery Replacement,137.8,157318,2.5,High
+CAR,Toyota,Toyota Model 4,Air Filter,27.86,107501,0.7,Low
+TRUCK,MAN,MAN Model 5,Battery Replacement,537.58,39387,7.3,Medium
+BIKE,Kawasaki,Kawasaki Model 4,Battery Replacement,142.59,126010,2.4,Low
+CAR,Ford,Ford Model 5,Chain Lube,19.68,26752,0.3,Low
+CAR,Ford,Ford Model 4,Battery Replacement,155.76,99901,2.7,Medium
+TRUCK,Scania,Scania Model 4,Oil Change,266.87,26742,5.6,High
+TRUCK,MAN,MAN Model 2,Brake Pad Replacement,596.67,7610,9.7,Low
+BIKE,Ducati,Ducati Model 5,Tire Rotation,35.96,21966,0.5,Low
+CAR,Toyota,Toyota Model 2,Oil Change,83.51,146118,1.6,Low
+TRUCK,Mercedes,Mercedes Model 3,Tire Rotation,130.47,141142,2.1,Low
+TRUCK,Scania,Scania Model 3,Battery Replacement,451.39,194348,7.3,High
+BIKE,Yamaha,Yamaha Model 4,Brake Pad Replacement,144.45,196999,3.8,High
+TRUCK,MAN,MAN Model 1,Air Filter,87.21,141969,2.1,High
+TRUCK,Scania,Scania Model 4,Brake Pad Replacement,712.44,155412,12.7,Low
+TRUCK,Mercedes,Mercedes Model 5,Tire Rotation,120.36,128726,2.8,Low
+TRUCK,Scania,Scania Model 4,Chain Lube,54.99,142529,1.2,Medium
+TRUCK,Scania,Scania Model 2,Brake Pad Replacement,653.82,90838,12.3,Medium
+BIKE,Yamaha,Yamaha Model 3,Tire Rotation,29.91,108835,0.7,High
+CAR,Toyota,Toyota Model 2,Oil Change,80.24,166096,1.4,Medium
+CAR,BMW,BMW Model 1,Chain Lube,19.86,92416,0.3,High
+TRUCK,Mercedes,Mercedes Model 1,Chain Lube,60.77,33168,1.4,Medium
+BIKE,Kawasaki,Kawasaki Model 2,Battery Replacement,138.85,88638,2.5,Low
+TRUCK,Mercedes,Mercedes Model 1,Chain Lube,54.0,77183,1.0,Medium
+CAR,BMW,BMW Model 5,Battery Replacement,138.55,35677,2.4,High
+TRUCK,MAN,MAN Model 5,Chain Lube,70.61,159484,1.4,Medium
+BIKE,Kawasaki,Kawasaki Model 2,Chain Lube,18.89,156598,0.4,High
+BIKE,Ducati,Ducati Model 1,Tire Rotation,32.77,190991,0.6,Low
+TRUCK,Scania,Scania Model 5,Chain Lube,66.12,137290,1.0,Low
+CAR,BMW,BMW Model 2,Oil Change,94.57,30327,1.4,High
+TRUCK,Scania,Scania Model 2,Oil Change,261.11,131431,4.3,Medium
+BIKE,Kawasaki,Kawasaki Model 1,Brake Pad Replacement,155.03,65343,2.7,Medium
+BIKE,Ducati,Ducati Model 4,Brake Pad Replacement,182.89,63660,3.3,High
+CAR,Honda,Honda Model 5,Air Filter,35.9,170555,0.5,Medium
+BIKE,Harley,Harley Model 5,Oil Change,68.82,85958,1.3,High
+TRUCK,Mercedes,Mercedes Model 2,Tire Rotation,140.03,73834,2.0,Low
+CAR,BMW,BMW Model 1,Chain Lube,21.35,77581,0.4,High
+BIKE,Harley,Harley Model 3,Brake Pad Replacement,148.02,64995,3.8,High
+CAR,Toyota,Toyota Model 5,Oil Change,72.41,183493,1.9,High
+BIKE,Yamaha,Yamaha Model 5,Air Filter,22.7,111816,0.6,High
+TRUCK,Volvo,Volvo Model 3,Battery Replacement,419.69,184750,9.7,Medium
+TRUCK,MAN,MAN Model 3,Tire Rotation,116.67,24597,2.6,High
+TRUCK,Mercedes,Mercedes Model 1,Brake Pad Replacement,580.79,163907,13.4,Low
+BIKE,Harley,Harley Model 2,Tire Rotation,33.68,134378,0.7,Medium
+CAR,BMW,BMW Model 4,Battery Replacement,160.62,9931,3.0,Medium
+BIKE,Ducati,Ducati Model 3,Brake Pad Replacement,173.74,134015,2.8,Low
+BIKE,Kawasaki,Kawasaki Model 1,Chain Lube,14.6,130423,0.4,Medium
+CAR,BMW,BMW Model 5,Tire Rotation,36.42,139771,0.8,Low
+CAR,BMW,BMW Model 4,Tire Rotation,42.63,75712,0.7,High
+TRUCK,MAN,MAN Model 1,Battery Replacement,424.72,1532,8.3,Medium
+BIKE,Yamaha,Yamaha Model 2,Chain Lube,16.94,37670,0.4,Low
+TRUCK,Scania,Scania Model 5,Chain Lube,71.83,158798,1.3,High
+BIKE,Harley,Harley Model 4,Battery Replacement,140.5,162384,2.4,Low
+CAR,Toyota,Toyota Model 5,Battery Replacement,144.17,126005,3.3,Medium
+BIKE,Ducati,Ducati Model 5,Tire Rotation,36.67,41382,0.6,Medium
+BIKE,Kawasaki,Kawasaki Model 2,Oil Change,75.04,175821,1.2,Low
+BIKE,Harley,Harley Model 3,Tire Rotation,33.78,121199,0.6,Low
+TRUCK,MAN,MAN Model 4,Tire Rotation,134.77,128122,2.8,Low
+CAR,Ford,Ford Model 2,Chain Lube,18.25,196833,0.3,Low
+BIKE,Harley,Harley Model 2,Air Filter,25.07,89902,0.5,Low
+TRUCK,MAN,MAN Model 2,Brake Pad Replacement,713.49,156150,13.1,Low
+CAR,Toyota,Toyota Model 3,Brake Pad Replacement,238.78,106018,3.7,High
+TRUCK,Volvo,Volvo Model 2,Air Filter,83.11,103515,1.8,High
+BIKE,Yamaha,Yamaha Model 5,Oil Change,73.07,89010,1.2,Medium
+BIKE,Yamaha,Yamaha Model 3,Battery Replacement,131.01,59333,2.1,Low
+BIKE,Kawasaki,Kawasaki Model 3,Tire Rotation,34.88,82778,0.6,High
+CAR,Honda,Honda Model 3,Chain Lube,22.2,139308,0.4,Medium
+TRUCK,Mercedes,Mercedes Model 4,Battery Replacement,418.67,37371,7.3,Medium
+BIKE,Ducati,Ducati Model 4,Air Filter,22.82,102463,0.4,Medium
+BIKE,Ducati,Ducati Model 1,Chain Lube,18.42,76637,0.3,High
+BIKE,Kawasaki,Kawasaki Model 2,Brake Pad Replacement,145.3,185599,3.2,Low
+BIKE,Ducati,Ducati Model 1,Oil Change,67.52,149257,1.2,Low
+BIKE,Harley,Harley Model 5,Air Filter,26.77,82642,0.6,Low
+BIKE,Kawasaki,Kawasaki Model 5,Battery Replacement,140.59,144834,2.9,High
+BIKE,Yamaha,Yamaha Model 4,Tire Rotation,31.49,23321,0.7,Medium
+BIKE,Kawasaki,Kawasaki Model 1,Chain Lube,16.76,14610,0.4,Medium
+TRUCK,Mercedes,Mercedes Model 5,Tire Rotation,131.52,9568,2.2,High
+BIKE,Ducati,Ducati Model 3,Air Filter,24.59,54226,0.5,Low
+CAR,Honda,Honda Model 2,Oil Change,94.7,180998,1.6,Medium
+TRUCK,Volvo,Volvo Model 3,Tire Rotation,127.92,144435,2.1,Low

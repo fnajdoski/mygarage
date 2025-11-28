@@ -1,0 +1,81 @@
+{% extends 'garage/base.html' %}
+
+{% block content %}
+{% if global_attention_needed %}
+<div class="dashboard-alert alert-attention">
+    <div>
+        <h3>⚠️ ATTENTION NEEDED</h3>
+        <p style="margin-bottom: 0; color: rgba(255, 255, 255, 0.9);">One or more vehicles require maintenance.</p>
+    </div>
+</div>
+{% else %}
+<div class="dashboard-alert alert-good">
+    <div>
+        <h3>✅ ALL SYSTEMS GO</h3>
+        <p style="margin-bottom: 0; color: rgba(255, 255, 255, 0.9);">All vehicles are in good condition.</p>
+    </div>
+</div>
+{% endif %}
+
+<div class="vehicle-grid">
+    {% for vehicle in vehicles %}
+    <div class="glass-card vehicle-card">
+        {% if vehicle.image_url %}
+        <img src="{{ vehicle.image_url }}" alt="{{ vehicle.name }}" class="vehicle-image">
+        {% else %}
+        <!-- Placeholder or default image -->
+        <div
+            style="height: 200px; background: rgba(0,0,0,0.3); display: flex; align-items: center; justify-content: center; border-bottom: 1px solid var(--card-border);">
+            <span style="color: var(--text-muted);">No Image</span>
+        </div>
+        {% endif %}
+
+        <div class="vehicle-content">
+            <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+                <div>
+                    <h3 class="vehicle-title">{{ vehicle.name }}</h3>
+                    <div class="vehicle-status">{{ vehicle.get_type_display }}</div>
+                </div>
+                <div class="status-badge {% if vehicle.is_overdue %}status-warning{% else %}status-ok{% endif %}"
+                    style="padding: 4px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold; 
+                            {% if vehicle.is_overdue %}background: rgba(255, 0, 85, 0.2); color: var(--neon-red); border: 1px solid var(--neon-red);{% else %}background: rgba(0, 255, 157, 0.2); color: var(--neon-green); border: 1px solid var(--neon-green);{% endif %}">
+                    {% if vehicle.is_overdue %}ATTENTION{% else %}OK{% endif %}
+                </div>
+            </div>
+
+            <div class="odometer" style="margin-bottom: 1rem;">
+                <span style="color: var(--text-muted);">Odometer:</span>
+                <span style="color: var(--text-main); font-weight: 600;">{{ vehicle.current_odometer_km }} km</span>
+            </div>
+
+            <div class="upcoming-tasks" style="flex-grow: 1;">
+                <h4
+                    style="font-size: 1rem; color: var(--text-muted); margin-bottom: 0.5rem; border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 0.25rem;">
+                    Upcoming Tasks</h4>
+                <ul style="list-style: none; padding: 0;">
+                    {% for status in vehicle.get_maintenance_status|slice:":3" %}
+                    <li
+                        style="margin-bottom: 0.5rem; font-size: 0.9rem; display: flex; justify-content: space-between;">
+                        <span style="color: var(--text-main);">{{ status.service_name }}</span>
+                        <span
+                            style="{% if status.is_overdue %}color: var(--neon-red);{% else %}color: var(--neon-green);{% endif %}">
+                            {{ status.message }}
+                        </span>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+
+            <div style="margin-top: 1.5rem;">
+                <a href="{% url 'vehicle_detail' vehicle.pk %}" class="btn neon-button btn-block">Maintenance /
+                    Details</a>
+            </div>
+        </div>
+    </div>
+    {% empty %}
+    <div class="glass-card" style="grid-column: 1 / -1; text-align: center;">
+        <p>No vehicles found. <a href="{% url 'vehicle_add' %}">Add your first vehicle</a>.</p>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}

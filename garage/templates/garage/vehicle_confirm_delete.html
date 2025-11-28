@@ -1,0 +1,15 @@
+{% extends 'garage/base.html' %}
+
+{% block content %}
+<div class="form-container">
+    <h2>Delete Vehicle</h2>
+    <p>Are you sure you want to delete "{{ object.name }}"? This will also delete all maintenance history.</p>
+    <form method="post">
+        {% csrf_token %}
+        <div class="form-actions">
+            <button type="submit" class="btn btn-danger">Confirm Delete</button>
+            <a href="{% url 'vehicle_list' %}" class="btn btn-outline">Cancel</a>
+        </div>
+    </form>
+</div>
+{% endblock %}

@@ -1,0 +1,44 @@
+{% extends 'garage/base.html' %}
+
+{% block content %}
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 2rem;">
+    <h2>My Vehicles</h2>
+    <a href="{% url 'vehicle_add' %}" class="btn neon-button">Add Vehicle</a>
+</div>
+
+<div class="vehicle-grid">
+    {% for vehicle in vehicles %}
+    <div class="glass-card vehicle-card">
+        {% if vehicle.image_url %}
+        <img src="{{ vehicle.image_url }}" alt="{{ vehicle.name }}" class="vehicle-image">
+        {% else %}
+        <div
+            style="height: 200px; background: rgba(0,0,0,0.3); display: flex; align-items: center; justify-content: center; border-bottom: 1px solid var(--card-border);">
+            <span style="color: var(--text-muted);">No Image</span>
+        </div>
+        {% endif %}
+
+        <div class="vehicle-content">
+            <h3 class="vehicle-title">{{ vehicle.name }}</h3>
+            <p class="vehicle-status">{{ vehicle.year }} {{ vehicle.get_type_display }}</p>
+            <p style="color: var(--text-main); font-weight: 600; margin-bottom: 1.5rem;">{{ vehicle.current_odometer_km
+                }} km</p>
+
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin-top: auto;">
+                <a href="{% url 'vehicle_detail' vehicle.pk %}" class="btn neon-button"
+                    style="text-align: center;">Details</a>
+                <a href="{% url 'vehicle_edit' vehicle.pk %}" class="btn neon-button"
+                    style="text-align: center;">Edit</a>
+            </div>
+            <div style="margin-top: 1rem;">
+                <a href="{% url 'vehicle_delete' vehicle.pk %}" class="btn neon-button-red btn-block">Delete</a>
+            </div>
+        </div>
+    </div>
+    {% empty %}
+    <div class="glass-card" style="grid-column: 1 / -1; text-align: center;">
+        <p>No vehicles found.</p>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}

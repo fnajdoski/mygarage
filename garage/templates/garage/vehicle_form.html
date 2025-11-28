@@ -1,0 +1,19 @@
+{% extends 'garage/base.html' %}
+
+{% block content %}
+<div class="glass-card form-container" style="max-width: 600px; margin: 0 auto;">
+    <h2 style="margin-bottom: 1.5rem; text-align: center;">{% if form.instance.pk %}Edit Vehicle{% else %}Add Vehicle{%
+        endif %}</h2>
+    <form method="post">
+        {% csrf_token %}
+        <div class="form-group">
+            {{ form.as_p }}
+        </div>
+        <div class="form-actions" style="display: flex; gap: 1rem; justify-content: center; margin-top: 2rem;">
+            <button type="submit" class="btn neon-button">Save</button>
+            <a href="{% url 'vehicle_list' %}" class="btn btn-outline"
+                style="color: var(--text-muted); border: 1px solid var(--text-muted);">Cancel</a>
+        </div>
+    </form>
+</div>
+{% endblock %}
