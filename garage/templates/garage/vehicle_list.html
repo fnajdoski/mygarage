@@ -12,17 +12,29 @@
         {% if vehicle.image_url %}
         <img src="{{ vehicle.image_url }}" alt="{{ vehicle.name }}" class="vehicle-image">
         {% else %}
-        <div
-            style="height: 200px; background: rgba(0,0,0,0.3); display: flex; align-items: center; justify-content: center; border-bottom: 1px solid var(--card-border);">
-            <span style="color: var(--text-muted);">No Image</span>
+        <div style="
+                    height: 200px;
+                    background: rgba(0,0,0,0.3);
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    border-radius: 16px 16px 0 0;
+                    color: var(--text-muted);
+                    font-size: 0.9rem;">
+            No image
         </div>
         {% endif %}
 
-        <div class="vehicle-content">
-            <h3 class="vehicle-title">{{ vehicle.name }}</h3>
-            <p class="vehicle-status">{{ vehicle.year }} {{ vehicle.get_type_display }}</p>
-            <p style="color: var(--text-main); font-weight: 600; margin-bottom: 1.5rem;">{{ vehicle.current_odometer_km
-                }} km</p>
+        <div class="vehicle-card-body" style="padding: 1.5rem; display: flex; flex-direction: column;">
+            <h3 class="vehicle-title" style="margin: 0 0 0.25rem 0;">{{ vehicle.name }}</h3>
+            <p class="vehicle-status" style="margin: 0 0 1rem 0; color: var(--accent-soft); font-weight: 500;">
+                {{ vehicle.year }} {{ vehicle.get_type_display }}
+            </p>
+
+            <!-- THIS is the mileage line -->
+            <p style="color: var(--text-main); font-weight: 600; margin-bottom: 1.5rem;">
+                {{ vehicle.current_odometer_km }} km
+            </p>
 
             <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin-top: auto;">
                 <a href="{% url 'vehicle_detail' vehicle.pk %}" class="btn neon-button"
@@ -30,8 +42,11 @@
                 <a href="{% url 'vehicle_edit' vehicle.pk %}" class="btn neon-button"
                     style="text-align: center;">Edit</a>
             </div>
+
             <div style="margin-top: 1rem;">
-                <a href="{% url 'vehicle_delete' vehicle.pk %}" class="btn neon-button-red btn-block">Delete</a>
+                <a href="{% url 'vehicle_delete' vehicle.pk %}" class="btn neon-button-red btn-block">
+                    Delete
+                </a>
             </div>
         </div>
     </div>
