@@ -4,34 +4,28 @@ The My Garage application has been successfully converted into a full-stack Djan
 The system manages vehicles, tracks maintenance, predicts service costs, and displays alerts for overdue tasks.
 This README provides a clear overview of the functionality, how to run the project, and technical details for academic review.
 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
 Features Implemented
 1. Dashboard
-
 Status Overview: Shows “ATTENTION NEEDED” if any vehicle has overdue maintenance.
-
 Vehicle Cards: Display vehicle name, year, type, odometer, and next due maintenance.
-
 Alerts: A red warning banner appears when maintenance is required.
 
 2. Vehicle Management
-
 List View: See all vehicles in a responsive grid layout.
-
 CRUD: Add / Edit / Delete vehicles.
-
 Business Logic: Automatically calculates:
-
 Due in X km
-
 Overdue by X km
 based on service intervals and current mileage.
 
 3. Maintenance History & AI
 
 Log Service: Record maintenance with date, mileage, and cost.
-
 AI Cost Estimator:
-
 When selecting a “Service Type” in the log form,
 the AI model predicts the expected cost automatically.
 
@@ -39,16 +33,14 @@ Model: Random Forest Regressor trained on synthetic data
 (because a real dataset was unavailable).
 
 History Table: View all past services, including:
-
 service type
-
 mileage
-
 cost
-
 date
 
 Delete Service: Ability to remove maintenance records.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 How to Run the Application
 1. Start the Server
