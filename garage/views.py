@@ -31,7 +31,10 @@ class VehicleDetailView(DetailView):
     def get_context_data(self, **kwargs):
         context = super().get_context_data(**kwargs)
         context['history'] = self.object.maintenance_records.order_by('-date', '-mileage_km')
-        context['service_types'] = ServiceType.objects.all()
+        # Only show service types relevant to this vehicle (plus ALL)
+        context['service_types'] = ServiceType.objects.filter(
+            vehicle_type__in=[self.object.type, 'ALL']
+        ).order_by('name')
         return context
 
 class VehicleCreateView(CreateView):
@@ -71,17 +74,47 @@ class MaintenanceRecordDeleteView(DeleteView):
         return reverse_lazy('vehicle_detail', kwargs={'pk': self.object.vehicle.pk})
 
 from django.http import JsonResponse
-from .ml.cost_estimator import predict_cost
+from .ml.cost_estimator import predict_cost, predict_cost_from_features
+from .models import Vehicle
 
 def predict_cost_view(request):
-    vehicle_type = request.GET.get('vehicle_type')
+    """API endpoint used by the vehicle detail page to show 🤖 Estimated Cost.
+
+    Supports:
+    - New mode (preferred): vehicle_id + service_type
+    - Legacy mode: vehicle_type + service_type
+    """
     service_type = request.GET.get('service_type')
-    
+
+    vehicle_id = request.GET.get('vehicle_id')
+    if vehicle_id and service_type:
+        try:
+            vehicle = Vehicle.objects.get(pk=int(vehicle_id))
+        except Exception:
+            return JsonResponse({'error': 'Invalid vehicle_id'}, status=400)
+
+        features = {
+            "Vehicle Type": vehicle.type,
+            "Service Type": service_type,
+            "Make": vehicle.make,
+            "Model": vehicle.model,
+            "Year": vehicle.year,
+            "Odometer KM": vehicle.current_odometer_km,
+        }
+
+        cost = predict_cost_from_features(features)
+        if cost is None:
+            return JsonResponse({'error': 'Prediction failed'}, status=500)
+
+        return JsonResponse({'estimated_cost': cost})
+
+    # Legacy fallback (kept for compatibility)
+    vehicle_type = request.GET.get('vehicle_type')
     if not vehicle_type or not service_type:
         return JsonResponse({'error': 'Missing parameters'}, status=400)
-    
+
     cost = predict_cost(vehicle_type, service_type)
     if cost is None:
         return JsonResponse({'error': 'Prediction failed'}, status=500)
-    
+
     return JsonResponse({'estimated_cost': cost})

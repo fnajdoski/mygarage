@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'garage',
+    # Use AppConfig so we can hook signals (e.g., auto-seed default Service Types)
+    'garage.apps.GarageConfig',
 ]
 
 MIDDLEWARE = [
