@@ -92,15 +92,12 @@
     document.addEventListener('DOMContentLoaded', function () {
         const serviceSelect = document.getElementById('service_type');
         const predictionContainer = document.getElementById('ai-cost-prediction');
-        const predictedCostSpan = document.getElementById('predicted-cost');
-        const vehicleType = "{{ vehicle.type }}"; // Passed from context
-
-        serviceSelect.addEventListener('change', function () {
+        const predictedCostSpan = document.getElementById('predicted-cost');        serviceSelect.addEventListener('change', function () {
             const serviceId = this.value;
             const serviceName = this.options[this.selectedIndex].text;
 
             if (serviceId) {
-                fetch(`{% url 'predict_cost' %}?vehicle_type=${vehicleType}&service_type=${encodeURIComponent(serviceName)}`)
+                fetch(`{% url 'predict_cost' %}?vehicle_id={{ vehicle.id }}&service_type=${encodeURIComponent(serviceName)}`)
                     .then(response => response.json())
                     .then(data => {
                         if (data.estimated_cost) {
